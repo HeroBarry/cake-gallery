@@ -1,6 +1,10 @@
 {
     "categories": [
         {
+            "id": "all",
+            "name": "全部"
+        },
+        {
             "id": "nature",
             "name": "自然风景"
         },
