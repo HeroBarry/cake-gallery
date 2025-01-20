@@ -1,12 +1,33 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="zh">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Cake Gallery</title>
+    <title>瀑布流图片浏览</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <p>这是我们蛋糕画廊,邱义。</p>
-    <p>努力，加油！</p>
+    <div class="category-button" id="categoryBtn">
+        分类
+        <div class="category-menu" id="categoryMenu">
+            <!-- 分类项将通过 JavaScript 动态添加 -->
+        </div>
+    </div>
+
+    <div class="waterfall" id="waterfall">
+        <!-- 图片项将通过 JavaScript 动态添加 -->
+    </div>
+
+    <!-- 添加模态框 -->
+    <div class="modal" id="productModal">
+        <div class="modal-content">
+            <span class="close-modal" id="closeModal">&times;</span>
+            <div class="product-info" id="productInfo">
+                <!-- 产品信息将通过 JavaScript 动态添加 -->
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
 </body>
-</html>
+</html> 
