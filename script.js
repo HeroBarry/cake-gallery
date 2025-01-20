@@ -150,7 +150,9 @@ function setupCategoryButton() {
         //if (!categoryBtn.contains(e.target)) {
             //document.getElementById('categoryMenu').classList.remove('active');
        // }
-        categoryMenu.classList.remove('active');
+        if (!categoryBtn.contains(e.target)) {
+            categoryMenu.classList.remove('active');
+        }
     });
 }
 
