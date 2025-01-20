@@ -32,7 +32,8 @@ function initCategories(categories) {
         categoryItem.addEventListener('click', () => {
             currentCategory = category.id;
             displayImages(window.allImages, currentCategory);
-            toggleCategoryMenu();
+            //toggleCategoryMenu();
+            categoryMenu.classList.remove('active');
         });
         
         categoryMenu.appendChild(categoryItem);
