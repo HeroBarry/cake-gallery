@@ -29,11 +29,17 @@ function initCategories(categories) {
         categoryItem.textContent = category.name;
         categoryItem.dataset.category = category.id;
         
-        categoryItem.addEventListener('click', () => {
+        categoryItem.addEventListener('click', (e) => {
+            e.stopPropagation(); // 阻止事件冒泡
             currentCategory = category.id;
             displayImages(window.allImages, currentCategory);
-            //toggleCategoryMenu();
-            categoryMenu.classList.remove('active');
+            // 使用父元素引用来隐藏菜单
+            categoryItem.parentElement.classList.remove('active');
+            // 平滑滚动到顶部
+            window.scrollTo({
+                top: 0,
+                behavior: 'smooth'
+            });
         });
         
         categoryMenu.appendChild(categoryItem);
@@ -142,24 +148,22 @@ function setupModal() {
 // 设置分类按钮点击事件
 function setupCategoryButton() {
     const categoryBtn = document.getElementById('categoryBtn');
+    const categoryMenu = document.getElementById('categoryMenu');
     
-    categoryBtn.addEventListener('click', toggleCategoryMenu);
+    // 阻止分类菜单的点击事件冒泡
+    categoryMenu.addEventListener('click', (e) => {
+        e.stopPropagation();
+    });
+    
+    categoryBtn.addEventListener('click', (e) => {
+        e.stopPropagation();
+        categoryMenu.classList.toggle('active');
+    });
     
     // 点击其他地方关闭菜单
-    document.addEventListener('click', (e) => {
-        //if (!categoryBtn.contains(e.target)) {
-            //document.getElementById('categoryMenu').classList.remove('active');
-       // }
-        if (!categoryBtn.contains(e.target)) {
-            categoryMenu.classList.remove('active');
-        }
+    document.addEventListener('click', () => {
+        categoryMenu.classList.remove('active');
     });
-}
-
-// 切换分类菜单显示状态
-function toggleCategoryMenu() {
-    const menu = document.getElementById('categoryMenu');
-    menu.classList.toggle('active');
 }
 
 // 在页面加载完成后初始化
