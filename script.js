@@ -147,9 +147,10 @@ function setupCategoryButton() {
     
     // 点击其他地方关闭菜单
     document.addEventListener('click', (e) => {
-        if (!categoryBtn.contains(e.target)) {
-            document.getElementById('categoryMenu').classList.remove('active');
-        }
+        //if (!categoryBtn.contains(e.target)) {
+            //document.getElementById('categoryMenu').classList.remove('active');
+       // }
+        categoryMenu.classList.remove('active');
     });
 }
 
