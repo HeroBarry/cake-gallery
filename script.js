@@ -117,7 +117,7 @@ function showProductInfo(product) {
     `).join('');
 
     productInfo.innerHTML = `
-        <h2>${product.title} 编号: ${product.id}</h2>
+        <h3>${product.title} 编号: ${product.id}</h3>
         <div class="price-list">
             <h3>价格信息：</h3>
             ${pricesHTML}
