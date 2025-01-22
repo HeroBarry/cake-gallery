@@ -125,7 +125,7 @@ function showProductInfo(product) {
         <p>备注: ${product.notes || '暂无备注'}</p>
     `;
     
-    modal.style.display = 'block';
+    modal.style.display = 'flex';
 }
 
 // 关闭模态框
