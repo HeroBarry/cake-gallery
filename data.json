@@ -5,7 +5,7 @@
             "name": "全部"
         },
         {
-            "id": "influencers",
+            "id": "popular",
             "name": "网红"
         },
         {
@@ -13,7 +13,7 @@
             "name": "水果"
         },
         {
-            "id": "congratulate",
+            "id": "birthday",
             "name": "祝寿"
         },
         {
@@ -33,36 +33,24 @@
         {
             "id": 1000,
             "url": "/cake/img/cake_gallery_1000.jpg",
-            "category": "girl",
-            "title": "香麦佳《女孩》款",
+            "category": "popular",
+            "title": "香麦佳《网红》款",
             "prices": [
                 {
                     "spec": "6寸",
-                    "price": 50
+                    "price": 78
                 },
                 {
                     "spec": "8寸",
-                    "price": 123
+                    "price": 108
                 },
                 {
                     "spec": "10寸",
-                    "price": 488
+                    "price": 158
                 },
                 {
                     "spec": "12寸",
-                    "price": 646
-                },
-                {
-                    "spec": "14寸",
-                    "price": 799
-                },
-                {
-                    "spec": "16寸",
-                    "price": 919
-                },
-                {
-                    "spec": "18寸",
-                    "price": 796
+                    "price": 198
                 }
             ],
             "notes": "香麦佳蛋糕，品质保证，最优选择。"
@@ -70,36 +58,24 @@
         {
             "id": 1001,
             "url": "/cake/img/cake_gallery_1001.jpg",
-            "category": "influencers",
+            "category": "popular",
             "title": "香麦佳《网红》款",
             "prices": [
                 {
                     "spec": "6寸",
-                    "price": 64
+                    "price": 88
                 },
                 {
                     "spec": "8寸",
-                    "price": 113
+                    "price": 128
                 },
                 {
                     "spec": "10寸",
-                    "price": 582
+                    "price": 178
                 },
                 {
                     "spec": "12寸",
-                    "price": 958
-                },
-                {
-                    "spec": "14寸",
-                    "price": 764
-                },
-                {
-                    "spec": "16寸",
-                    "price": 485
-                },
-                {
-                    "spec": "18寸",
-                    "price": 846
+                    "price": 238
                 }
             ],
             "notes": "香麦佳蛋糕，品质保证，最优选择。"
@@ -112,31 +88,19 @@
             "prices": [
                 {
                     "spec": "6寸",
-                    "price": 105
+                    "price": 68
                 },
                 {
                     "spec": "8寸",
-                    "price": 276
+                    "price": 108
                 },
                 {
                     "spec": "10寸",
-                    "price": 413
+                    "price": 148
                 },
                 {
                     "spec": "12寸",
-                    "price": 705
-                },
-                {
-                    "spec": "14寸",
-                    "price": 892
-                },
-                {
-                    "spec": "16寸",
-                    "price": 854
-                },
-                {
-                    "spec": "18寸",
-                    "price": 547
+                    "price": 198
                 }
             ],
             "notes": "香麦佳蛋糕，品质保证，最优选择。"
@@ -144,36 +108,24 @@
         {
             "id": 1003,
             "url": "/cake/img/cake_gallery_1003.jpg",
-            "category": "congratulate",
-            "title": "香麦佳《祝寿》款",
+            "category": "popular",
+            "title": "香麦佳《网红》款",
             "prices": [
                 {
                     "spec": "6寸",
-                    "price": 118
+                    "price": 78
                 },
                 {
                     "spec": "8寸",
-                    "price": 285
+                    "price": 118
                 },
                 {
                     "spec": "10寸",
-                    "price": 241
+                    "price": 158
                 },
                 {
                     "spec": "12寸",
-                    "price": 481
-                },
-                {
-                    "spec": "14寸",
-                    "price": 975
-                },
-                {
-                    "spec": "16寸",
-                    "price": 794
-                },
-                {
-                    "spec": "18寸",
-                    "price": 471
+                    "price": 208
                 }
             ],
             "notes": "香麦佳蛋糕，品质保证，最优选择。"
@@ -181,36 +133,20 @@
         {
             "id": 1004,
             "url": "/cake/img/cake_gallery_1004.jpg",
-            "category": "adult",
-            "title": "香麦佳《情趣》款",
+            "category": "fruit",
+            "title": "香麦佳《水果》款",
             "prices": [
                 {
-                    "spec": "6寸",
-                    "price": 152
+                    "spec": "10+6寸",
+                    "price": 198
                 },
                 {
-                    "spec": "8寸",
-                    "price": 145
+                    "spec": "12+8寸",
+                    "price": 268
                 },
                 {
-                    "spec": "10寸",
-                    "price": 427
-                },
-                {
-                    "spec": "12寸",
-                    "price": 941
-                },
-                {
-                    "spec": "14寸",
-                    "price": 624
-                },
-                {
-                    "spec": "16寸",
-                    "price": 608
-                },
-                {
-                    "spec": "18寸",
-                    "price": 928
+                    "spec": "14+10寸",
+                    "price": 318
                 }
             ],
             "notes": "香麦佳蛋糕，品质保证，最优选择。"
@@ -218,36 +154,24 @@
         {
             "id": 1005,
             "url": "/cake/img/cake_gallery_1005.jpg",
-            "category": "influencers",
-            "title": "香麦佳《网红》款",
+            "category": "boy",
+            "title": "香麦佳《男孩》款",
             "prices": [
                 {
                     "spec": "6寸",
-                    "price": 88
+                    "price": 78
                 },
                 {
                     "spec": "8寸",
-                    "price": 144
+                    "price": 118
                 },
                 {
                     "spec": "10寸",
-                    "price": 305
+                    "price": 168
                 },
                 {
                     "spec": "12寸",
-                    "price": 692
-                },
-                {
-                    "spec": "14寸",
-                    "price": 716
-                },
-                {
-                    "spec": "16寸",
-                    "price": 441
-                },
-                {
-                    "spec": "18寸",
-                    "price": 792
+                    "price": 218
                 }
             ],
             "notes": "香麦佳蛋糕，品质保证，最优选择。"
@@ -255,36 +179,24 @@
         {
             "id": 1006,
             "url": "/cake/img/cake_gallery_1006.jpg",
-            "category": "influencers",
-            "title": "香麦佳《网红》款",
+            "category": "boy",
+            "title": "香麦佳《男孩》款",
             "prices": [
                 {
                     "spec": "6寸",
-                    "price": 157
+                    "price": 78
                 },
                 {
                     "spec": "8寸",
-                    "price": 288
+                    "price": 118
                 },
                 {
                     "spec": "10寸",
-                    "price": 231
+                    "price": 168
                 },
                 {
                     "spec": "12寸",
-                    "price": 697
-                },
-                {
-                    "spec": "14寸",
-                    "price": 999
-                },
-                {
-                    "spec": "16寸",
-                    "price": 475
-                },
-                {
-                    "spec": "18寸",
-                    "price": 543
+                    "price": 208
                 }
             ],
             "notes": "香麦佳蛋糕，品质保证，最优选择。"
@@ -292,36 +204,24 @@
         {
             "id": 1007,
             "url": "/cake/img/cake_gallery_1007.jpg",
-            "category": "congratulate",
-            "title": "香麦佳《祝寿》款",
+            "category": "popular",
+            "title": "香麦佳《网红》款",
             "prices": [
                 {
                     "spec": "6寸",
-                    "price": 58
+                    "price": 78
                 },
                 {
                     "spec": "8寸",
-                    "price": 283
+                    "price": 118
                 },
                 {
                     "spec": "10寸",
-                    "price": 479
+                    "price": 158
                 },
                 {
                     "spec": "12寸",
-                    "price": 588
-                },
-                {
-                    "spec": "14寸",
-                    "price": 675
-                },
-                {
-                    "spec": "16寸",
-                    "price": 702
-                },
-                {
-                    "spec": "18寸",
-                    "price": 555
+                    "price": 208
                 }
             ],
             "notes": "香麦佳蛋糕，品质保证，最优选择。"
@@ -329,36 +229,24 @@
         {
             "id": 1008,
             "url": "/cake/img/cake_gallery_1008.jpg",
-            "category": "girl",
-            "title": "香麦佳《女孩》款",
+            "category": "boy",
+            "title": "香麦佳《男孩》款",
             "prices": [
                 {
                     "spec": "6寸",
-                    "price": 121
+                    "price": 78
                 },
                 {
                     "spec": "8寸",
-                    "price": 171
+                    "price": 118
                 },
                 {
                     "spec": "10寸",
-                    "price": 379
+                    "price": 158
                 },
                 {
                     "spec": "12寸",
-                    "price": 641
-                },
-                {
-                    "spec": "14寸",
-                    "price": 679
-                },
-                {
-                    "spec": "16寸",
-                    "price": 796
-                },
-                {
-                    "spec": "18寸",
-                    "price": 475
+                    "price": 208
                 }
             ],
             "notes": "香麦佳蛋糕，品质保证，最优选择。"
@@ -366,36 +254,24 @@
         {
             "id": 1009,
             "url": "/cake/img/cake_gallery_1009.jpg",
-            "category": "influencers",
-            "title": "香麦佳《网红》款",
+            "category": "boy",
+            "title": "香麦佳《男孩》款",
             "prices": [
                 {
                     "spec": "6寸",
-                    "price": 196
+                    "price": 78
                 },
                 {
                     "spec": "8寸",
-                    "price": 164
+                    "price": 118
                 },
                 {
                     "spec": "10寸",
-                    "price": 283
+                    "price": 158
                 },
                 {
                     "spec": "12寸",
-                    "price": 515
-                },
-                {
-                    "spec": "14寸",
-                    "price": 442
-                },
-                {
-                    "spec": "16寸",
-                    "price": 575
-                },
-                {
-                    "spec": "18寸",
-                    "price": 698
+                    "price": 208
                 }
             ],
             "notes": "香麦佳蛋糕，品质保证，最优选择。"
@@ -403,36 +279,24 @@
         {
             "id": 1010,
             "url": "/cake/img/cake_gallery_1010.jpg",
-            "category": "fruit",
-            "title": "香麦佳《水果》款",
+            "category": "boy",
+            "title": "香麦佳《男孩》款",
             "prices": [
                 {
                     "spec": "6寸",
-                    "price": 147
+                    "price": 78
                 },
                 {
                     "spec": "8寸",
-                    "price": 104
+                    "price": 118
                 },
                 {
                     "spec": "10寸",
-                    "price": 572
+                    "price": 158
                 },
                 {
                     "spec": "12寸",
-                    "price": 866
-                },
-                {
-                    "spec": "14寸",
-                    "price": 511
-                },
-                {
-                    "spec": "16寸",
-                    "price": 746
-                },
-                {
-                    "spec": "18寸",
-                    "price": 749
+                    "price": 208
                 }
             ],
             "notes": "香麦佳蛋糕，品质保证，最优选择。"
@@ -440,36 +304,24 @@
         {
             "id": 1011,
             "url": "/cake/img/cake_gallery_1011.jpg",
-            "category": "fruit",
-            "title": "香麦佳《水果》款",
+            "category": "popular",
+            "title": "香麦佳《网红》款",
             "prices": [
                 {
                     "spec": "6寸",
-                    "price": 60
+                    "price": 78
                 },
                 {
                     "spec": "8寸",
-                    "price": 236
+                    "price": 118
                 },
                 {
                     "spec": "10寸",
-                    "price": 368
+                    "price": 158
                 },
                 {
                     "spec": "12寸",
-                    "price": 641
-                },
-                {
-                    "spec": "14寸",
-                    "price": 399
-                },
-                {
-                    "spec": "16寸",
-                    "price": 798
-                },
-                {
-                    "spec": "18寸",
-                    "price": 579
+                    "price": 208
                 }
             ],
             "notes": "香麦佳蛋糕，品质保证，最优选择。"
@@ -477,36 +329,24 @@
         {
             "id": 1012,
             "url": "/cake/img/cake_gallery_1012.jpg",
-            "category": "boy",
-            "title": "香麦佳《男孩》款",
+            "category": "girl",
+            "title": "香麦佳《女孩》款",
             "prices": [
                 {
                     "spec": "6寸",
-                    "price": 153
+                    "price": 78
                 },
                 {
                     "spec": "8寸",
-                    "price": 162
+                    "price": 118
                 },
                 {
                     "spec": "10寸",
-                    "price": 444
+                    "price": 158
                 },
                 {
                     "spec": "12寸",
-                    "price": 571
-                },
-                {
-                    "spec": "14寸",
-                    "price": 918
-                },
-                {
-                    "spec": "16寸",
-                    "price": 587
-                },
-                {
-                    "spec": "18寸",
-                    "price": 700
+                    "price": 208
                 }
             ],
             "notes": "香麦佳蛋糕，品质保证，最优选择。"
@@ -514,36 +354,20 @@
         {
             "id": 1013,
             "url": "/cake/img/cake_gallery_1013.jpg",
-            "category": "fruit",
-            "title": "香麦佳《水果》款",
+            "category": "popular",
+            "title": "香麦佳《网红》款",
             "prices": [
                 {
-                    "spec": "6寸",
-                    "price": 51
+                    "spec": "6寸加高",
+                    "price": 168
                 },
                 {
-                    "spec": "8寸",
-                    "price": 117
+                    "spec": "8寸加高",
+                    "price": 208
                 },
                 {
-                    "spec": "10寸",
-                    "price": 570
-                },
-                {
-                    "spec": "12寸",
-                    "price": 596
-                },
-                {
-                    "spec": "14寸",
-                    "price": 415
-                },
-                {
-                    "spec": "16寸",
-                    "price": 561
-                },
-                {
-                    "spec": "18寸",
-                    "price": 466
+                    "spec": "10寸加高",
+                    "price": 258
                 }
             ],
             "notes": "香麦佳蛋糕，品质保证，最优选择。"
@@ -551,36 +375,24 @@
         {
             "id": 1014,
             "url": "/cake/img/cake_gallery_1014.jpg",
-            "category": "influencers",
-            "title": "香麦佳《网红》款",
+            "category": "boy",
+            "title": "香麦佳《男孩》款",
             "prices": [
                 {
                     "spec": "6寸",
-                    "price": 113
+                    "price": 108
                 },
                 {
                     "spec": "8寸",
-                    "price": 188
+                    "price": 148
                 },
                 {
                     "spec": "10寸",
-                    "price": 536
+                    "price": 198
                 },
                 {
                     "spec": "12寸",
-                    "price": 853
-                },
-                {
-                    "spec": "14寸",
-                    "price": 754
-                },
-                {
-                    "spec": "16寸",
-                    "price": 994
-                },
-                {
-                    "spec": "18寸",
-                    "price": 760
+                    "price": 248
                 }
             ],
             "notes": "香麦佳蛋糕，品质保证，最优选择。"
@@ -588,36 +400,24 @@
         {
             "id": 1015,
             "url": "/cake/img/cake_gallery_1015.jpg",
-            "category": "boy",
-            "title": "香麦佳《男孩》款",
+            "category": "girl",
+            "title": "香麦佳《女孩》款",
             "prices": [
                 {
                     "spec": "6寸",
-                    "price": 71
+                    "price": 78
                 },
                 {
                     "spec": "8寸",
-                    "price": 283
+                    "price": 118
                 },
                 {
                     "spec": "10寸",
-                    "price": 450
+                    "price": 168
                 },
                 {
                     "spec": "12寸",
-                    "price": 673
-                },
-                {
-                    "spec": "14寸",
-                    "price": 522
-                },
-                {
-                    "spec": "16寸",
-                    "price": 522
-                },
-                {
-                    "spec": "18寸",
-                    "price": 871
+                    "price": 208
                 }
             ],
             "notes": "香麦佳蛋糕，品质保证，最优选择。"
@@ -625,36 +425,20 @@
         {
             "id": 1016,
             "url": "/cake/img/cake_gallery_1016.jpg",
-            "category": "congratulate",
-            "title": "香麦佳《祝寿》款",
+            "category": "popular",
+            "title": "香麦佳《网红》款",
             "prices": [
                 {
-                    "spec": "6寸",
-                    "price": 160
+                    "spec": "6寸加高",
+                    "price": 118
                 },
                 {
-                    "spec": "8寸",
-                    "price": 191
+                    "spec": "8寸加高",
+                    "price": 158
                 },
                 {
-                    "spec": "10寸",
-                    "price": 598
-                },
-                {
-                    "spec": "12寸",
-                    "price": 891
-                },
-                {
-                    "spec": "14寸",
-                    "price": 673
-                },
-                {
-                    "spec": "16寸",
-                    "price": 877
-                },
-                {
-                    "spec": "18寸",
-                    "price": 612
+                    "spec": "10加高寸",
+                    "price": 208
                 }
             ],
             "notes": "香麦佳蛋糕，品质保证，最优选择。"
@@ -662,36 +446,20 @@
         {
             "id": 1017,
             "url": "/cake/img/cake_gallery_1017.jpg",
-            "category": "girl",
-            "title": "香麦佳《女孩》款",
+            "category": "popular",
+            "title": "香麦佳《网红》款",
             "prices": [
                 {
-                    "spec": "6寸",
-                    "price": 107
+                    "spec": "6寸加高",
+                    "price": 148
                 },
                 {
-                    "spec": "8寸",
-                    "price": 253
+                    "spec": "8寸加高",
+                    "price": 188
                 },
                 {
-                    "spec": "10寸",
-                    "price": 515
-                },
-                {
-                    "spec": "12寸",
-                    "price": 540
-                },
-                {
-                    "spec": "14寸",
-                    "price": 992
-                },
-                {
-                    "spec": "16寸",
-                    "price": 707
-                },
-                {
-                    "spec": "18寸",
-                    "price": 826
+                    "spec": "10寸加高",
+                    "price": 248
                 }
             ],
             "notes": "香麦佳蛋糕，品质保证，最优选择。"
@@ -704,31 +472,19 @@
             "prices": [
                 {
                     "spec": "6寸",
-                    "price": 92
+                    "price": 78
                 },
                 {
                     "spec": "8寸",
-                    "price": 180
+                    "price": 118
                 },
                 {
                     "spec": "10寸",
-                    "price": 253
+                    "price": 158
                 },
                 {
                     "spec": "12寸",
-                    "price": 618
-                },
-                {
-                    "spec": "14寸",
-                    "price": 633
-                },
-                {
-                    "spec": "16寸",
-                    "price": 434
-                },
-                {
-                    "spec": "18寸",
-                    "price": 628
+                    "price": 208
                 }
             ],
             "notes": "香麦佳蛋糕，品质保证，最优选择。"
@@ -736,36 +492,24 @@
         {
             "id": 1019,
             "url": "/cake/img/cake_gallery_1019.jpg",
-            "category": "girl",
-            "title": "香麦佳《女孩》款",
+            "category": "popular",
+            "title": "香麦佳《网红》款",
             "prices": [
                 {
                     "spec": "6寸",
-                    "price": 195
+                    "price": 78
                 },
                 {
                     "spec": "8寸",
-                    "price": 263
+                    "price": 118
                 },
                 {
                     "spec": "10寸",
-                    "price": 358
+                    "price": 158
                 },
                 {
                     "spec": "12寸",
-                    "price": 713
-                },
-                {
-                    "spec": "14寸",
-                    "price": 680
-                },
-                {
-                    "spec": "16寸",
-                    "price": 887
-                },
-                {
-                    "spec": "18寸",
-                    "price": 422
+                    "price": 208
                 }
             ],
             "notes": "香麦佳蛋糕，品质保证，最优选择。"
@@ -773,36 +517,24 @@
         {
             "id": 1020,
             "url": "/cake/img/cake_gallery_1020.jpg",
-            "category": "fruit",
-            "title": "香麦佳《水果》款",
+            "category": "girl",
+            "title": "香麦佳《女孩》款",
             "prices": [
                 {
                     "spec": "6寸",
-                    "price": 125
+                    "price": 78
                 },
                 {
                     "spec": "8寸",
-                    "price": 150
+                    "price": 118
                 },
                 {
                     "spec": "10寸",
-                    "price": 569
+                    "price": 158
                 },
                 {
                     "spec": "12寸",
-                    "price": 783
-                },
-                {
-                    "spec": "14寸",
-                    "price": 419
-                },
-                {
-                    "spec": "16寸",
-                    "price": 404
-                },
-                {
-                    "spec": "18寸",
-                    "price": 848
+                    "price": 208
                 }
             ],
             "notes": "香麦佳蛋糕，品质保证，最优选择。"
@@ -810,36 +542,24 @@
         {
             "id": 1021,
             "url": "/cake/img/cake_gallery_1021.jpg",
-            "category": "influencers",
-            "title": "香麦佳《网红》款",
+            "category": "girl",
+            "title": "香麦佳《女孩》款",
             "prices": [
                 {
                     "spec": "6寸",
-                    "price": 141
+                    "price": 78
                 },
                 {
                     "spec": "8寸",
-                    "price": 166
+                    "price": 118
                 },
                 {
                     "spec": "10寸",
-                    "price": 280
+                    "price": 158
                 },
                 {
                     "spec": "12寸",
-                    "price": 931
-                },
-                {
-                    "spec": "14寸",
-                    "price": 497
-                },
-                {
-                    "spec": "16寸",
-                    "price": 837
-                },
-                {
-                    "spec": "18寸",
-                    "price": 532
+                    "price": 208
                 }
             ],
             "notes": "香麦佳蛋糕，品质保证，最优选择。"
@@ -847,36 +567,24 @@
         {
             "id": 1022,
             "url": "/cake/img/cake_gallery_1022.jpg",
-            "category": "influencers",
-            "title": "香麦佳《网红》款",
+            "category": "girl",
+            "title": "香麦佳《女孩》款",
             "prices": [
                 {
                     "spec": "6寸",
-                    "price": 133
+                    "price": 78
                 },
                 {
                     "spec": "8寸",
-                    "price": 119
+                    "price": 118
                 },
                 {
                     "spec": "10寸",
-                    "price": 471
+                    "price": 158
                 },
                 {
                     "spec": "12寸",
-                    "price": 977
-                },
-                {
-                    "spec": "14寸",
-                    "price": 446
-                },
-                {
-                    "spec": "16寸",
-                    "price": 832
-                },
-                {
-                    "spec": "18寸",
-                    "price": 924
+                    "price": 208
                 }
             ],
             "notes": "香麦佳蛋糕，品质保证，最优选择。"
@@ -884,36 +592,24 @@
         {
             "id": 1023,
             "url": "/cake/img/cake_gallery_1023.jpg",
-            "category": "fruit",
-            "title": "香麦佳《水果》款",
+            "category": "girl",
+            "title": "香麦佳《女孩》款",
             "prices": [
                 {
                     "spec": "6寸",
-                    "price": 139
+                    "price": 78
                 },
                 {
                     "spec": "8寸",
-                    "price": 196
+                    "price": 118
                 },
                 {
                     "spec": "10寸",
-                    "price": 277
+                    "price": 158
                 },
                 {
                     "spec": "12寸",
-                    "price": 944
-                },
-                {
-                    "spec": "14寸",
-                    "price": 870
-                },
-                {
-                    "spec": "16寸",
-                    "price": 836
-                },
-                {
-                    "spec": "18寸",
-                    "price": 424
+                    "price": 208
                 }
             ],
             "notes": "香麦佳蛋糕，品质保证，最优选择。"
@@ -921,36 +617,24 @@
         {
             "id": 1024,
             "url": "/cake/img/cake_gallery_1024.jpg",
-            "category": "congratulate",
+            "category": "birthday",
             "title": "香麦佳《祝寿》款",
             "prices": [
                 {
                     "spec": "6寸",
-                    "price": 115
+                    "price": 78
                 },
                 {
                     "spec": "8寸",
-                    "price": 163
+                    "price": 128
                 },
                 {
                     "spec": "10寸",
-                    "price": 258
+                    "price": 168
                 },
                 {
                     "spec": "12寸",
-                    "price": 550
-                },
-                {
-                    "spec": "14寸",
-                    "price": 465
-                },
-                {
-                    "spec": "16寸",
-                    "price": 451
-                },
-                {
-                    "spec": "18寸",
-                    "price": 675
+                    "price": 218
                 }
             ],
             "notes": "香麦佳蛋糕，品质保证，最优选择。"
@@ -958,493 +642,12 @@
         {
             "id": 1025,
             "url": "/cake/img/cake_gallery_1025.jpg",
-            "category": "congratulate",
-            "title": "香麦佳《祝寿》款",
-            "prices": [
-                {
-                    "spec": "6寸",
-                    "price": 76
-                },
-                {
-                    "spec": "8寸",
-                    "price": 156
-                },
-                {
-                    "spec": "10寸",
-                    "price": 367
-                },
-                {
-                    "spec": "12寸",
-                    "price": 714
-                },
-                {
-                    "spec": "14寸",
-                    "price": 693
-                },
-                {
-                    "spec": "16寸",
-                    "price": 743
-                },
-                {
-                    "spec": "18寸",
-                    "price": 402
-                }
-            ],
-            "notes": "香麦佳蛋糕，品质保证，最优选择。"
-        },
-        {
-            "id": 1026,
-            "url": "/cake/img/cake_gallery_1026.jpg",
-            "category": "congratulate",
-            "title": "香麦佳《祝寿》款",
-            "prices": [
-                {
-                    "spec": "6寸",
-                    "price": 149
-                },
-                {
-                    "spec": "8寸",
-                    "price": 146
-                },
-                {
-                    "spec": "10寸",
-                    "price": 355
-                },
-                {
-                    "spec": "12寸",
-                    "price": 713
-                },
-                {
-                    "spec": "14寸",
-                    "price": 624
-                },
-                {
-                    "spec": "16寸",
-                    "price": 526
-                },
-                {
-                    "spec": "18寸",
-                    "price": 547
-                }
-            ],
-            "notes": "香麦佳蛋糕，品质保证，最优选择。"
-        },
-        {
-            "id": 1027,
-            "url": "/cake/img/cake_gallery_1027.jpg",
-            "category": "influencers",
-            "title": "香麦佳《网红》款",
-            "prices": [
-                {
-                    "spec": "6寸",
-                    "price": 144
-                },
-                {
-                    "spec": "8寸",
-                    "price": 280
-                },
-                {
-                    "spec": "10寸",
-                    "price": 232
-                },
-                {
-                    "spec": "12寸",
-                    "price": 801
-                },
-                {
-                    "spec": "14寸",
-                    "price": 998
-                },
-                {
-                    "spec": "16寸",
-                    "price": 615
-                },
-                {
-                    "spec": "18寸",
-                    "price": 565
-                }
-            ],
-            "notes": "香麦佳蛋糕，品质保证，最优选择。"
-        },
-        {
-            "id": 1028,
-            "url": "/cake/img/cake_gallery_1028.jpg",
-            "category": "fruit",
-            "title": "香麦佳《水果》款",
-            "prices": [
-                {
-                    "spec": "6寸",
-                    "price": 61
-                },
-                {
-                    "spec": "8寸",
-                    "price": 298
-                },
-                {
-                    "spec": "10寸",
-                    "price": 432
-                },
-                {
-                    "spec": "12寸",
-                    "price": 778
-                },
-                {
-                    "spec": "14寸",
-                    "price": 470
-                },
-                {
-                    "spec": "16寸",
-                    "price": 527
-                },
-                {
-                    "spec": "18寸",
-                    "price": 906
-                }
-            ],
-            "notes": "香麦佳蛋糕，品质保证，最优选择。"
-        },
-        {
-            "id": 1029,
-            "url": "/cake/img/cake_gallery_1029.jpg",
             "category": "boy",
             "title": "香麦佳《男孩》款",
             "prices": [
                 {
                     "spec": "6寸",
-                    "price": 67
-                },
-                {
-                    "spec": "8寸",
-                    "price": 243
-                },
-                {
-                    "spec": "10寸",
-                    "price": 308
-                },
-                {
-                    "spec": "12寸",
-                    "price": 978
-                },
-                {
-                    "spec": "14寸",
-                    "price": 427
-                },
-                {
-                    "spec": "16寸",
-                    "price": 650
-                },
-                {
-                    "spec": "18寸",
-                    "price": 733
-                }
-            ],
-            "notes": "香麦佳蛋糕，品质保证，最优选择。"
-        },
-        {
-            "id": 1030,
-            "url": "/cake/img/cake_gallery_1030.jpg",
-            "category": "influencers",
-            "title": "香麦佳《网红》款",
-            "prices": [
-                {
-                    "spec": "6寸",
-                    "price": 164
-                },
-                {
-                    "spec": "8寸",
-                    "price": 212
-                },
-                {
-                    "spec": "10寸",
-                    "price": 572
-                },
-                {
-                    "spec": "12寸",
-                    "price": 769
-                },
-                {
-                    "spec": "14寸",
-                    "price": 990
-                },
-                {
-                    "spec": "16寸",
-                    "price": 993
-                },
-                {
-                    "spec": "18寸",
-                    "price": 599
-                }
-            ],
-            "notes": "香麦佳蛋糕，品质保证，最优选择。"
-        },
-        {
-            "id": 1031,
-            "url": "/cake/img/cake_gallery_1031.jpg",
-            "category": "fruit",
-            "title": "香麦佳《水果》款",
-            "prices": [
-                {
-                    "spec": "6寸",
-                    "price": 92
-                },
-                {
-                    "spec": "8寸",
-                    "price": 298
-                },
-                {
-                    "spec": "10寸",
-                    "price": 477
-                },
-                {
-                    "spec": "12寸",
-                    "price": 987
-                },
-                {
-                    "spec": "14寸",
-                    "price": 487
-                },
-                {
-                    "spec": "16寸",
-                    "price": 698
-                },
-                {
-                    "spec": "18寸",
-                    "price": 566
-                }
-            ],
-            "notes": "香麦佳蛋糕，品质保证，最优选择。"
-        },
-        {
-            "id": 1032,
-            "url": "/cake/img/cake_gallery_1032.jpg",
-            "category": "congratulate",
-            "title": "香麦佳《祝寿》款",
-            "prices": [
-                {
-                    "spec": "6寸",
-                    "price": 194
-                },
-                {
-                    "spec": "8寸",
-                    "price": 109
-                },
-                {
-                    "spec": "10寸",
-                    "price": 374
-                },
-                {
-                    "spec": "12寸",
-                    "price": 789
-                },
-                {
-                    "spec": "14寸",
-                    "price": 644
-                },
-                {
-                    "spec": "16寸",
-                    "price": 716
-                },
-                {
-                    "spec": "18寸",
-                    "price": 585
-                }
-            ],
-            "notes": "香麦佳蛋糕，品质保证，最优选择。"
-        },
-        {
-            "id": 1033,
-            "url": "/cake/img/cake_gallery_1033.jpg",
-            "category": "fruit",
-            "title": "香麦佳《水果》款",
-            "prices": [
-                {
-                    "spec": "6寸",
-                    "price": 141
-                },
-                {
-                    "spec": "8寸",
-                    "price": 232
-                },
-                {
-                    "spec": "10寸",
-                    "price": 429
-                },
-                {
-                    "spec": "12寸",
-                    "price": 965
-                },
-                {
-                    "spec": "14寸",
-                    "price": 768
-                },
-                {
-                    "spec": "16寸",
-                    "price": 766
-                },
-                {
-                    "spec": "18寸",
-                    "price": 720
-                }
-            ],
-            "notes": "香麦佳蛋糕，品质保证，最优选择。"
-        },
-        {
-            "id": 1034,
-            "url": "/cake/img/cake_gallery_1034.jpg",
-            "category": "adult",
-            "title": "香麦佳《情趣》款",
-            "prices": [
-                {
-                    "spec": "6寸",
-                    "price": 97
-                },
-                {
-                    "spec": "8寸",
-                    "price": 121
-                },
-                {
-                    "spec": "10寸",
-                    "price": 560
-                },
-                {
-                    "spec": "12寸",
-                    "price": 483
-                },
-                {
-                    "spec": "14寸",
-                    "price": 636
-                },
-                {
-                    "spec": "16寸",
-                    "price": 545
-                },
-                {
-                    "spec": "18寸",
-                    "price": 768
-                }
-            ],
-            "notes": "香麦佳蛋糕，品质保证，最优选择。"
-        },
-        {
-            "id": 1035,
-            "url": "/cake/img/cake_gallery_1035.jpg",
-            "category": "influencers",
-            "title": "香麦佳《网红》款",
-            "prices": [
-                {
-                    "spec": "6寸",
-                    "price": 148
-                },
-                {
-                    "spec": "8寸",
-                    "price": 108
-                },
-                {
-                    "spec": "10寸",
-                    "price": 213
-                },
-                {
-                    "spec": "12寸",
-                    "price": 922
-                },
-                {
-                    "spec": "14寸",
-                    "price": 946
-                },
-                {
-                    "spec": "16寸",
-                    "price": 657
-                },
-                {
-                    "spec": "18寸",
-                    "price": 463
-                }
-            ],
-            "notes": "香麦佳蛋糕，品质保证，最优选择。"
-        },
-        {
-            "id": 1036,
-            "url": "/cake/img/cake_gallery_1036.jpg",
-            "category": "fruit",
-            "title": "香麦佳《水果》款",
-            "prices": [
-                {
-                    "spec": "6寸",
-                    "price": 66
-                },
-                {
-                    "spec": "8寸",
-                    "price": 147
-                },
-                {
-                    "spec": "10寸",
-                    "price": 316
-                },
-                {
-                    "spec": "12寸",
-                    "price": 409
-                },
-                {
-                    "spec": "14寸",
-                    "price": 645
-                },
-                {
-                    "spec": "16寸",
-                    "price": 690
-                },
-                {
-                    "spec": "18寸",
-                    "price": 522
-                }
-            ],
-            "notes": "香麦佳蛋糕，品质保证，最优选择。"
-        },
-        {
-            "id": 1037,
-            "url": "/cake/img/cake_gallery_1037.jpg",
-            "category": "influencers",
-            "title": "香麦佳《网红》款",
-            "prices": [
-                {
-                    "spec": "6寸",
-                    "price": 107
-                },
-                {
-                    "spec": "8寸",
-                    "price": 224
-                },
-                {
-                    "spec": "10寸",
-                    "price": 245
-                },
-                {
-                    "spec": "12寸",
-                    "price": 810
-                },
-                {
-                    "spec": "14寸",
-                    "price": 647
-                },
-                {
-                    "spec": "16寸",
-                    "price": 415
-                },
-                {
-                    "spec": "18寸",
-                    "price": 992
-                }
-            ],
-            "notes": "香麦佳蛋糕，品质保证，最优选择。"
-        },
-        {
-            "id": 1038,
-            "url": "/cake/img/cake_gallery_1038.jpg",
-            "category": "influencers",
-            "title": "香麦佳《网红》款",
-            "prices": [
-                {
-                    "spec": "6寸",
-                    "price": 186
+                    "price": 128
                 },
                 {
                     "spec": "8寸",
@@ -1452,23 +655,336 @@
                 },
                 {
                     "spec": "10寸",
-                    "price": 281
+                    "price": 208
                 },
                 {
                     "spec": "12寸",
-                    "price": 542
+                    "price": 278
+                }
+            ],
+            "notes": "香麦佳蛋糕，品质保证，最优选择。"
+        },
+        {
+            "id": 1026,
+            "url": "/cake/img/cake_gallery_1026.jpg",
+            "category": "birthday",
+            "title": "香麦佳《祝寿》款",
+            "prices": [
+                {
+                    "spec": "6寸",
+                    "price": 78
                 },
                 {
-                    "spec": "14寸",
-                    "price": 466
+                    "spec": "8寸",
+                    "price": 118
                 },
                 {
-                    "spec": "16寸",
-                    "price": 625
+                    "spec": "10寸",
+                    "price": 158
                 },
                 {
-                    "spec": "18寸",
-                    "price": 498
+                    "spec": "12寸",
+                    "price": 208
+                }
+            ],
+            "notes": "香麦佳蛋糕，品质保证，最优选择。"
+        },
+        {
+            "id": 1027,
+            "url": "/cake/img/cake_gallery_1027.jpg",
+            "category": "fruit",
+            "title": "香麦佳《水果》款",
+            "prices": [
+                {
+                    "spec": "6寸",
+                    "price": 78
+                },
+                {
+                    "spec": "8寸",
+                    "price": 128
+                },
+                {
+                    "spec": "10寸",
+                    "price": 188
+                },
+                {
+                    "spec": "12寸",
+                    "price": 248
+                }
+            ],
+            "notes": "香麦佳蛋糕，品质保证，最优选择。"
+        },
+        {
+            "id": 1028,
+            "url": "/cake/img/cake_gallery_1028.jpg",
+            "category": "popular",
+            "title": "香麦佳《网红》款",
+            "prices": [
+                {
+                    "spec": "6寸",
+                    "price": 88
+                },
+                {
+                    "spec": "8寸",
+                    "price": 128
+                },
+                {
+                    "spec": "10寸",
+                    "price": 188
+                },
+                {
+                    "spec": "12寸",
+                    "price": 248
+                }
+            ],
+            "notes": "香麦佳蛋糕，品质保证，最优选择。"
+        },
+        {
+            "id": 1029,
+            "url": "/cake/img/cake_gallery_1029.jpg",
+            "category": "birthday",
+            "title": "香麦佳《祝寿》款",
+            "prices": [
+                {
+                    "spec": "6寸",
+                    "price": 78
+                },
+                {
+                    "spec": "8寸",
+                    "price": 118
+                },
+                {
+                    "spec": "10寸",
+                    "price": 158
+                },
+                {
+                    "spec": "12寸",
+                    "price": 208
+                }
+            ],
+            "notes": "香麦佳蛋糕，品质保证，最优选择。"
+        },
+        {
+            "id": 1030,
+            "url": "/cake/img/cake_gallery_1030.jpg",
+            "category": "fruit",
+            "title": "香麦佳《水果》款",
+            "prices": [
+                {
+                    "spec": "6寸",
+                    "price": 78
+                },
+                {
+                    "spec": "8寸",
+                    "price": 118
+                },
+                {
+                    "spec": "10寸",
+                    "price": 168
+                },
+                {
+                    "spec": "12寸",
+                    "price": 218
+                }
+            ],
+            "notes": "香麦佳蛋糕，品质保证，最优选择。"
+        },
+        {
+            "id": 1031,
+            "url": "/cake/img/cake_gallery_1031.jpg",
+            "category": "popular",
+            "title": "香麦佳《网红》款",
+            "prices": [
+                {
+                    "spec": "6寸",
+                    "price": 78
+                },
+                {
+                    "spec": "8寸",
+                    "price": 118
+                },
+                {
+                    "spec": "10寸",
+                    "price": 158
+                },
+                {
+                    "spec": "12寸",
+                    "price": 208
+                }
+            ],
+            "notes": "香麦佳蛋糕，品质保证，最优选择。"
+        },
+        {
+            "id": 1032,
+            "url": "/cake/img/cake_gallery_1032.jpg",
+            "category": "birthday",
+            "title": "香麦佳《祝寿》款",
+            "prices": [
+                {
+                    "spec": "6寸",
+                    "price": 98
+                },
+                {
+                    "spec": "8寸",
+                    "price": 138
+                },
+                {
+                    "spec": "10寸",
+                    "price": 178
+                },
+                {
+                    "spec": "12寸",
+                    "price": 238
+                }
+            ],
+            "notes": "香麦佳蛋糕，品质保证，最优选择。"
+        },
+        {
+            "id": 1033,
+            "url": "/cake/img/cake_gallery_1033.jpg",
+            "category": "birthday",
+            "title": "香麦佳《祝寿》款",
+            "prices": [
+                {
+                    "spec": "6寸",
+                    "price": 88
+                },
+                {
+                    "spec": "8寸",
+                    "price": 128
+                },
+                {
+                    "spec": "10寸",
+                    "price": 178
+                },
+                {
+                    "spec": "12寸",
+                    "price": 228
+                }
+            ],
+            "notes": "香麦佳蛋糕，品质保证，最优选择。"
+        },
+        {
+            "id": 1034,
+            "url": "/cake/img/cake_gallery_1034.jpg",
+            "category": "birthday",
+            "title": "香麦佳《祝寿》款",
+            "prices": [
+                {
+                    "spec": "6寸",
+                    "price": 98
+                },
+                {
+                    "spec": "8寸",
+                    "price": 138
+                },
+                {
+                    "spec": "10寸",
+                    "price": 178
+                },
+                {
+                    "spec": "12寸",
+                    "price": 228
+                }
+            ],
+            "notes": "香麦佳蛋糕，品质保证，最优选择。"
+        },
+        {
+            "id": 1035,
+            "url": "/cake/img/cake_gallery_1035.jpg",
+            "category": "birthday",
+            "title": "香麦佳《祝寿》款",
+            "prices": [
+                {
+                    "spec": "6寸",
+                    "price": 78
+                },
+                {
+                    "spec": "8寸",
+                    "price": 118
+                },
+                {
+                    "spec": "10寸",
+                    "price": 158
+                },
+                {
+                    "spec": "12寸",
+                    "price": 208
+                }
+            ],
+            "notes": "香麦佳蛋糕，品质保证，最优选择。"
+        },
+        {
+            "id": 1036,
+            "url": "/cake/img/cake_gallery_1036.jpg",
+            "category": "boy",
+            "title": "香麦佳《男孩》款",
+            "prices": [
+                {
+                    "spec": "6寸",
+                    "price": 78
+                },
+                {
+                    "spec": "8寸",
+                    "price": 118
+                },
+                {
+                    "spec": "10寸",
+                    "price": 158
+                },
+                {
+                    "spec": "12寸",
+                    "price": 208
+                }
+            ],
+            "notes": "香麦佳蛋糕，品质保证，最优选择。"
+        },
+        {
+            "id": 1037,
+            "url": "/cake/img/cake_gallery_1037.jpg",
+            "category": "birthday",
+            "title": "香麦佳《祝寿》款",
+            "prices": [
+                {
+                    "spec": "6寸",
+                    "price": 78
+                },
+                {
+                    "spec": "8寸",
+                    "price": 118
+                },
+                {
+                    "spec": "10寸",
+                    "price": 168
+                },
+                {
+                    "spec": "12寸",
+                    "price": 218
+                }
+            ],
+            "notes": "香麦佳蛋糕，品质保证，最优选择。"
+        },
+        {
+            "id": 1038,
+            "url": "/cake/img/cake_gallery_1038.jpg",
+            "category": "birthday",
+            "title": "香麦佳《祝寿》款",
+            "prices": [
+                {
+                    "spec": "6寸",
+                    "price": 108
+                },
+                {
+                    "spec": "8寸",
+                    "price": 148
+                },
+                {
+                    "spec": "10寸",
+                    "price": 198
+                },
+                {
+                    "spec": "12寸",
+                    "price": 258
                 }
             ],
             "notes": "香麦佳蛋糕，品质保证，最优选择。"
@@ -1476,36 +992,24 @@
         {
             "id": 1039,
             "url": "/cake/img/cake_gallery_1039.jpg",
-            "category": "fruit",
-            "title": "香麦佳《水果》款",
+            "category": "birthday",
+            "title": "香麦佳《祝寿》款",
             "prices": [
                 {
                     "spec": "6寸",
-                    "price": 152
+                    "price": 78
                 },
                 {
                     "spec": "8寸",
-                    "price": 141
+                    "price": 118
                 },
                 {
                     "spec": "10寸",
-                    "price": 299
+                    "price": 168
                 },
                 {
                     "spec": "12寸",
-                    "price": 483
-                },
-                {
-                    "spec": "14寸",
-                    "price": 546
-                },
-                {
-                    "spec": "16寸",
-                    "price": 408
-                },
-                {
-                    "spec": "18寸",
-                    "price": 572
+                    "price": 218
                 }
             ],
             "notes": "香麦佳蛋糕，品质保证，最优选择。"
@@ -1513,36 +1017,24 @@
         {
             "id": 1040,
             "url": "/cake/img/cake_gallery_1040.jpg",
-            "category": "congratulate",
+            "category": "birthday",
             "title": "香麦佳《祝寿》款",
             "prices": [
                 {
                     "spec": "6寸",
-                    "price": 129
+                    "price": 78
                 },
                 {
                     "spec": "8寸",
-                    "price": 269
+                    "price": 118
                 },
                 {
                     "spec": "10寸",
-                    "price": 509
+                    "price": 158
                 },
                 {
                     "spec": "12寸",
-                    "price": 426
-                },
-                {
-                    "spec": "14寸",
-                    "price": 952
-                },
-                {
-                    "spec": "16寸",
-                    "price": 727
-                },
-                {
-                    "spec": "18寸",
-                    "price": 624
+                    "price": 208
                 }
             ],
             "notes": "香麦佳蛋糕，品质保证，最优选择。"
@@ -1550,36 +1042,20 @@
         {
             "id": 1041,
             "url": "/cake/img/cake_gallery_1041.jpg",
-            "category": "boy",
-            "title": "香麦佳《男孩》款",
+            "category": "popular",
+            "title": "香麦佳《网红》款",
             "prices": [
                 {
                     "spec": "6寸",
-                    "price": 100
+                    "price": 78
                 },
                 {
                     "spec": "8寸",
-                    "price": 257
+                    "price": 118
                 },
                 {
                     "spec": "10寸",
-                    "price": 300
-                },
-                {
-                    "spec": "12寸",
-                    "price": 547
-                },
-                {
-                    "spec": "14寸",
-                    "price": 709
-                },
-                {
-                    "spec": "16寸",
-                    "price": 970
-                },
-                {
-                    "spec": "18寸",
-                    "price": 997
+                    "price": 168
                 }
             ],
             "notes": "香麦佳蛋糕，品质保证，最优选择。"
@@ -1587,36 +1063,24 @@
         {
             "id": 1042,
             "url": "/cake/img/cake_gallery_1042.jpg",
-            "category": "boy",
-            "title": "香麦佳《男孩》款",
+            "category": "popular",
+            "title": "香麦佳《网红》款",
             "prices": [
                 {
                     "spec": "6寸",
-                    "price": 53
+                    "price": 78
                 },
                 {
                     "spec": "8寸",
-                    "price": 145
+                    "price": 118
                 },
                 {
                     "spec": "10寸",
-                    "price": 206
+                    "price": 158
                 },
                 {
                     "spec": "12寸",
-                    "price": 609
-                },
-                {
-                    "spec": "14寸",
-                    "price": 920
-                },
-                {
-                    "spec": "16寸",
-                    "price": 920
-                },
-                {
-                    "spec": "18寸",
-                    "price": 583
+                    "price": 208
                 }
             ],
             "notes": "香麦佳蛋糕，品质保证，最优选择。"
@@ -1624,36 +1088,24 @@
         {
             "id": 1043,
             "url": "/cake/img/cake_gallery_1043.jpg",
-            "category": "congratulate",
-            "title": "香麦佳《祝寿》款",
+            "category": "popular",
+            "title": "香麦佳《网红》款",
             "prices": [
                 {
                     "spec": "6寸",
-                    "price": 104
+                    "price": 78
                 },
                 {
                     "spec": "8寸",
-                    "price": 143
+                    "price": 118
                 },
                 {
                     "spec": "10寸",
-                    "price": 538
+                    "price": 168
                 },
                 {
                     "spec": "12寸",
-                    "price": 978
-                },
-                {
-                    "spec": "14寸",
-                    "price": 454
-                },
-                {
-                    "spec": "16寸",
-                    "price": 692
-                },
-                {
-                    "spec": "18寸",
-                    "price": 643
+                    "price": 218
                 }
             ],
             "notes": "香麦佳蛋糕，品质保证，最优选择。"
@@ -1666,31 +1118,19 @@
             "prices": [
                 {
                     "spec": "6寸",
-                    "price": 75
+                    "price": 68
                 },
                 {
                     "spec": "8寸",
-                    "price": 119
+                    "price": 108
                 },
                 {
                     "spec": "10寸",
-                    "price": 472
+                    "price": 148
                 },
                 {
                     "spec": "12寸",
-                    "price": 597
-                },
-                {
-                    "spec": "14寸",
-                    "price": 468
-                },
-                {
-                    "spec": "16寸",
-                    "price": 759
-                },
-                {
-                    "spec": "18寸",
-                    "price": 531
+                    "price": 198
                 }
             ],
             "notes": "香麦佳蛋糕，品质保证，最优选择。"
@@ -1698,36 +1138,24 @@
         {
             "id": 1045,
             "url": "/cake/img/cake_gallery_1045.jpg",
-            "category": "influencers",
+            "category": "popular",
             "title": "香麦佳《网红》款",
             "prices": [
                 {
                     "spec": "6寸",
-                    "price": 162
+                    "price": 78
                 },
                 {
                     "spec": "8寸",
-                    "price": 225
+                    "price": 118
                 },
                 {
                     "spec": "10寸",
-                    "price": 510
+                    "price": 158
                 },
                 {
                     "spec": "12寸",
-                    "price": 824
-                },
-                {
-                    "spec": "14寸",
-                    "price": 642
-                },
-                {
-                    "spec": "16寸",
-                    "price": 818
-                },
-                {
-                    "spec": "18寸",
-                    "price": 989
+                    "price": 208
                 }
             ],
             "notes": "香麦佳蛋糕，品质保证，最优选择。"
@@ -1735,36 +1163,24 @@
         {
             "id": 1046,
             "url": "/cake/img/cake_gallery_1046.jpg",
-            "category": "influencers",
+            "category": "popular",
             "title": "香麦佳《网红》款",
             "prices": [
                 {
                     "spec": "6寸",
-                    "price": 50
+                    "price": 78
                 },
                 {
                     "spec": "8寸",
-                    "price": 134
+                    "price": 118
                 },
                 {
                     "spec": "10寸",
-                    "price": 209
+                    "price": 168
                 },
                 {
                     "spec": "12寸",
-                    "price": 567
-                },
-                {
-                    "spec": "14寸",
-                    "price": 625
-                },
-                {
-                    "spec": "16寸",
-                    "price": 997
-                },
-                {
-                    "spec": "18寸",
-                    "price": 418
+                    "price": 218
                 }
             ],
             "notes": "香麦佳蛋糕，品质保证，最优选择。"
@@ -1772,36 +1188,24 @@
         {
             "id": 1047,
             "url": "/cake/img/cake_gallery_1047.jpg",
-            "category": "adult",
-            "title": "香麦佳《情趣》款",
+            "category": "boy",
+            "title": "香麦佳《男孩》款",
             "prices": [
                 {
                     "spec": "6寸",
-                    "price": 66
+                    "price": 78
                 },
                 {
                     "spec": "8寸",
-                    "price": 233
+                    "price": 118
                 },
                 {
                     "spec": "10寸",
-                    "price": 431
+                    "price": 158
                 },
                 {
                     "spec": "12寸",
-                    "price": 541
-                },
-                {
-                    "spec": "14寸",
-                    "price": 636
-                },
-                {
-                    "spec": "16寸",
-                    "price": 710
-                },
-                {
-                    "spec": "18寸",
-                    "price": 556
+                    "price": 208
                 }
             ],
             "notes": "香麦佳蛋糕，品质保证，最优选择。"
@@ -1809,36 +1213,20 @@
         {
             "id": 1048,
             "url": "/cake/img/cake_gallery_1048.jpg",
-            "category": "girl",
-            "title": "香麦佳《女孩》款",
+            "category": "popular",
+            "title": "香麦佳《网红》款",
             "prices": [
                 {
-                    "spec": "6寸",
-                    "price": 132
+                    "spec": "6加高寸",
+                    "price": 128
                 },
                 {
-                    "spec": "8寸",
-                    "price": 266
+                    "spec": "8寸加高",
+                    "price": 178
                 },
                 {
-                    "spec": "10寸",
-                    "price": 314
-                },
-                {
-                    "spec": "12寸",
-                    "price": 712
-                },
-                {
-                    "spec": "14寸",
-                    "price": 557
-                },
-                {
-                    "spec": "16寸",
-                    "price": 684
-                },
-                {
-                    "spec": "18寸",
-                    "price": 709
+                    "spec": "10寸加高",
+                    "price": 228
                 }
             ],
             "notes": "香麦佳蛋糕，品质保证，最优选择。"
@@ -1846,36 +1234,24 @@
         {
             "id": 1049,
             "url": "/cake/img/cake_gallery_1049.jpg",
-            "category": "influencers",
+            "category": "popular",
             "title": "香麦佳《网红》款",
             "prices": [
                 {
                     "spec": "6寸",
-                    "price": 63
+                    "price": 68
                 },
                 {
                     "spec": "8寸",
-                    "price": 296
+                    "price": 108
                 },
                 {
                     "spec": "10寸",
-                    "price": 470
+                    "price": 158
                 },
                 {
                     "spec": "12寸",
-                    "price": 662
-                },
-                {
-                    "spec": "14寸",
-                    "price": 478
-                },
-                {
-                    "spec": "16寸",
-                    "price": 759
-                },
-                {
-                    "spec": "18寸",
-                    "price": 603
+                    "price": 208
                 }
             ],
             "notes": "香麦佳蛋糕，品质保证，最优选择。"
@@ -1883,36 +1259,24 @@
         {
             "id": 1050,
             "url": "/cake/img/cake_gallery_1050.jpg",
-            "category": "congratulate",
-            "title": "香麦佳《祝寿》款",
+            "category": "popular",
+            "title": "香麦佳《网红》款",
             "prices": [
                 {
                     "spec": "6寸",
-                    "price": 75
+                    "price": 78
                 },
                 {
                     "spec": "8寸",
-                    "price": 294
+                    "price": 118
                 },
                 {
                     "spec": "10寸",
-                    "price": 378
+                    "price": 168
                 },
                 {
                     "spec": "12寸",
-                    "price": 455
-                },
-                {
-                    "spec": "14寸",
-                    "price": 549
-                },
-                {
-                    "spec": "16寸",
-                    "price": 454
-                },
-                {
-                    "spec": "18寸",
-                    "price": 863
+                    "price": 218
                 }
             ],
             "notes": "香麦佳蛋糕，品质保证，最优选择。"
@@ -1920,36 +1284,24 @@
         {
             "id": 1051,
             "url": "/cake/img/cake_gallery_1051.jpg",
-            "category": "adult",
-            "title": "香麦佳《情趣》款",
+            "category": "fruit",
+            "title": "香麦佳《水果》款",
             "prices": [
                 {
-                    "spec": "6寸",
-                    "price": 162
-                },
-                {
                     "spec": "8寸",
-                    "price": 100
+                    "price": 108
                 },
                 {
                     "spec": "10寸",
-                    "price": 502
+                    "price": 148
                 },
                 {
                     "spec": "12寸",
-                    "price": 913
+                    "price": 198
                 },
                 {
                     "spec": "14寸",
-                    "price": 959
-                },
-                {
-                    "spec": "16寸",
-                    "price": 801
-                },
-                {
-                    "spec": "18寸",
-                    "price": 998
+                    "price": 238
                 }
             ],
             "notes": "香麦佳蛋糕，品质保证，最优选择。"
@@ -1957,12 +1309,12 @@
         {
             "id": 1052,
             "url": "/cake/img/cake_gallery_1052.jpg",
-            "category": "adult",
-            "title": "香麦佳《情趣》款",
+            "category": "fruit",
+            "title": "香麦佳《水果》款",
             "prices": [
                 {
                     "spec": "6寸",
-                    "price": 75
+                    "price": 68
                 },
                 {
                     "spec": "8寸",
@@ -1970,23 +1322,11 @@
                 },
                 {
                     "spec": "10寸",
-                    "price": 470
+                    "price": 148
                 },
                 {
                     "spec": "12寸",
-                    "price": 552
-                },
-                {
-                    "spec": "14寸",
-                    "price": 883
-                },
-                {
-                    "spec": "16寸",
-                    "price": 682
-                },
-                {
-                    "spec": "18寸",
-                    "price": 406
+                    "price": 198
                 }
             ],
             "notes": "香麦佳蛋糕，品质保证，最优选择。"
@@ -1994,36 +1334,24 @@
         {
             "id": 1053,
             "url": "/cake/img/cake_gallery_1053.jpg",
-            "category": "influencers",
-            "title": "香麦佳《网红》款",
+            "category": "fruit",
+            "title": "香麦佳《水果》款",
             "prices": [
                 {
                     "spec": "6寸",
-                    "price": 198
+                    "price": 68
                 },
                 {
                     "spec": "8寸",
-                    "price": 99
+                    "price": 108
                 },
                 {
                     "spec": "10寸",
-                    "price": 302
+                    "price": 148
                 },
                 {
                     "spec": "12寸",
-                    "price": 426
-                },
-                {
-                    "spec": "14寸",
-                    "price": 965
-                },
-                {
-                    "spec": "16寸",
-                    "price": 804
-                },
-                {
-                    "spec": "18寸",
-                    "price": 856
+                    "price": 198
                 }
             ],
             "notes": "香麦佳蛋糕，品质保证，最优选择。"
@@ -2031,36 +1359,24 @@
         {
             "id": 1054,
             "url": "/cake/img/cake_gallery_1054.jpg",
-            "category": "influencers",
-            "title": "香麦佳《网红》款",
+            "category": "fruit",
+            "title": "香麦佳《水果》款",
             "prices": [
                 {
                     "spec": "6寸",
-                    "price": 175
+                    "price": 88
                 },
                 {
                     "spec": "8寸",
-                    "price": 299
+                    "price": 128
                 },
                 {
                     "spec": "10寸",
-                    "price": 587
+                    "price": 178
                 },
                 {
                     "spec": "12寸",
-                    "price": 874
-                },
-                {
-                    "spec": "14寸",
-                    "price": 562
-                },
-                {
-                    "spec": "16寸",
-                    "price": 445
-                },
-                {
-                    "spec": "18寸",
-                    "price": 531
+                    "price": 228
                 }
             ],
             "notes": "香麦佳蛋糕，品质保证，最优选择。"
@@ -2068,36 +1384,20 @@
         {
             "id": 1055,
             "url": "/cake/img/cake_gallery_1055.jpg",
-            "category": "influencers",
-            "title": "香麦佳《网红》款",
+            "category": "fruit",
+            "title": "香麦佳《水果》款",
             "prices": [
                 {
                     "spec": "6寸",
-                    "price": 90
+                    "price": 78
                 },
                 {
                     "spec": "8寸",
-                    "price": 242
+                    "price": 128
                 },
                 {
                     "spec": "10寸",
-                    "price": 363
-                },
-                {
-                    "spec": "12寸",
-                    "price": 477
-                },
-                {
-                    "spec": "14寸",
-                    "price": 949
-                },
-                {
-                    "spec": "16寸",
-                    "price": 486
-                },
-                {
-                    "spec": "18寸",
-                    "price": 606
+                    "price": 158
                 }
             ],
             "notes": "香麦佳蛋糕，品质保证，最优选择。"
@@ -2105,36 +1405,24 @@
         {
             "id": 1056,
             "url": "/cake/img/cake_gallery_1056.jpg",
-            "category": "boy",
-            "title": "香麦佳《男孩》款",
+            "category": "fruit",
+            "title": "香麦佳《水果》款",
             "prices": [
                 {
                     "spec": "6寸",
-                    "price": 199
+                    "price": 78
                 },
                 {
                     "spec": "8寸",
-                    "price": 249
+                    "price": 118
                 },
                 {
                     "spec": "10寸",
-                    "price": 230
+                    "price": 158
                 },
                 {
                     "spec": "12寸",
-                    "price": 407
-                },
-                {
-                    "spec": "14寸",
-                    "price": 904
-                },
-                {
-                    "spec": "16寸",
-                    "price": 513
-                },
-                {
-                    "spec": "18寸",
-                    "price": 497
+                    "price": 218
                 }
             ],
             "notes": "香麦佳蛋糕，品质保证，最优选择。"
@@ -2142,36 +1430,28 @@
         {
             "id": 1057,
             "url": "/cake/img/cake_gallery_1057.jpg",
-            "category": "girl",
-            "title": "香麦佳《女孩》款",
+            "category": "fruit",
+            "title": "香麦佳《水果》款",
             "prices": [
                 {
                     "spec": "6寸",
-                    "price": 80
+                    "price": 68
                 },
                 {
                     "spec": "8寸",
-                    "price": 295
+                    "price": 108
                 },
                 {
                     "spec": "10寸",
-                    "price": 466
+                    "price": 158
                 },
                 {
                     "spec": "12寸",
-                    "price": 912
+                    "price": 198
                 },
                 {
                     "spec": "14寸",
-                    "price": 431
-                },
-                {
-                    "spec": "16寸",
-                    "price": 932
-                },
-                {
-                    "spec": "18寸",
-                    "price": 570
+                    "price": 238
                 }
             ],
             "notes": "香麦佳蛋糕，品质保证，最优选择。"
@@ -2179,36 +1459,24 @@
         {
             "id": 1058,
             "url": "/cake/img/cake_gallery_1058.jpg",
-            "category": "fruit",
-            "title": "香麦佳《水果》款",
+            "category": "popular",
+            "title": "香麦佳《网红》款",
             "prices": [
                 {
                     "spec": "6寸",
-                    "price": 100
+                    "price": 78
                 },
                 {
                     "spec": "8寸",
-                    "price": 143
+                    "price": 118
                 },
                 {
                     "spec": "10寸",
-                    "price": 565
+                    "price": 158
                 },
                 {
                     "spec": "12寸",
-                    "price": 426
-                },
-                {
-                    "spec": "14寸",
-                    "price": 507
-                },
-                {
-                    "spec": "16寸",
-                    "price": 804
-                },
-                {
-                    "spec": "18寸",
-                    "price": 987
+                    "price": 208
                 }
             ],
             "notes": "香麦佳蛋糕，品质保证，最优选择。"
@@ -2216,36 +1484,20 @@
         {
             "id": 1059,
             "url": "/cake/img/cake_gallery_1059.jpg",
-            "category": "boy",
-            "title": "香麦佳《男孩》款",
+            "category": "popular",
+            "title": "香麦佳《网红》款",
             "prices": [
                 {
-                    "spec": "6寸",
-                    "price": 146
+                    "spec": "6寸加高",
+                    "price": 118
                 },
                 {
-                    "spec": "8寸",
-                    "price": 255
+                    "spec": "8寸加高",
+                    "price": 158
                 },
                 {
-                    "spec": "10寸",
-                    "price": 528
-                },
-                {
-                    "spec": "12寸",
-                    "price": 464
-                },
-                {
-                    "spec": "14寸",
-                    "price": 847
-                },
-                {
-                    "spec": "16寸",
-                    "price": 590
-                },
-                {
-                    "spec": "18寸",
-                    "price": 496
+                    "spec": "10寸加高",
+                    "price": 208
                 }
             ],
             "notes": "香麦佳蛋糕，品质保证，最优选择。"
@@ -2253,36 +1505,20 @@
         {
             "id": 1060,
             "url": "/cake/img/cake_gallery_1060.jpg",
-            "category": "adult",
-            "title": "香麦佳《情趣》款",
+            "category": "popular",
+            "title": "香麦佳《网红》款",
             "prices": [
                 {
-                    "spec": "6寸",
-                    "price": 53
+                    "spec": "6寸加高",
+                    "price": 118
                 },
                 {
-                    "spec": "8寸",
-                    "price": 186
+                    "spec": "8寸加高",
+                    "price": 158
                 },
                 {
-                    "spec": "10寸",
-                    "price": 414
-                },
-                {
-                    "spec": "12寸",
-                    "price": 988
-                },
-                {
-                    "spec": "14寸",
-                    "price": 458
-                },
-                {
-                    "spec": "16寸",
-                    "price": 433
-                },
-                {
-                    "spec": "18寸",
-                    "price": 528
+                    "spec": "10寸加高",
+                    "price": 208
                 }
             ],
             "notes": "香麦佳蛋糕，品质保证，最优选择。"
@@ -2290,36 +1526,28 @@
         {
             "id": 1061,
             "url": "/cake/img/cake_gallery_1061.jpg",
-            "category": "influencers",
+            "category": "popular",
             "title": "香麦佳《网红》款",
             "prices": [
                 {
                     "spec": "6寸",
-                    "price": 118
+                    "price": 78
                 },
                 {
                     "spec": "8寸",
-                    "price": 178
+                    "price": 118
                 },
                 {
                     "spec": "10寸",
-                    "price": 277
+                    "price": 158
                 },
                 {
                     "spec": "12寸",
-                    "price": 978
+                    "price": 208
                 },
                 {
                     "spec": "14寸",
-                    "price": 791
-                },
-                {
-                    "spec": "16寸",
-                    "price": 573
-                },
-                {
-                    "spec": "18寸",
-                    "price": 710
+                    "price": 248
                 }
             ],
             "notes": "香麦佳蛋糕，品质保证，最优选择。"
@@ -2327,36 +1555,24 @@
         {
             "id": 1062,
             "url": "/cake/img/cake_gallery_1062.jpg",
-            "category": "boy",
-            "title": "香麦佳《男孩》款",
+            "category": "popular",
+            "title": "香麦佳《网红》款",
             "prices": [
                 {
-                    "spec": "6寸",
-                    "price": 116
+                    "spec": "6寸加高",
+                    "price": 118
                 },
                 {
-                    "spec": "8寸",
-                    "price": 131
+                    "spec": "8寸加高",
+                    "price": 158
                 },
                 {
-                    "spec": "10寸",
-                    "price": 319
+                    "spec": "10寸加高",
+                    "price": 208
                 },
                 {
-                    "spec": "12寸",
-                    "price": 519
-                },
-                {
-                    "spec": "14寸",
-                    "price": 985
-                },
-                {
-                    "spec": "16寸",
-                    "price": 852
-                },
-                {
-                    "spec": "18寸",
-                    "price": 665
+                    "spec": "12寸加高",
+                    "price": 248
                 }
             ],
             "notes": "香麦佳蛋糕，品质保证，最优选择。"
@@ -2364,36 +1580,20 @@
         {
             "id": 1063,
             "url": "/cake/img/cake_gallery_1063.jpg",
-            "category": "boy",
-            "title": "香麦佳《男孩》款",
+            "category": "popular",
+            "title": "香麦佳《网红》款",
             "prices": [
                 {
-                    "spec": "6寸",
-                    "price": 66
+                    "spec": "6寸加高",
+                    "price": 158
                 },
                 {
-                    "spec": "8寸",
-                    "price": 298
+                    "spec": "8寸加高",
+                    "price": 198
                 },
                 {
-                    "spec": "10寸",
-                    "price": 362
-                },
-                {
-                    "spec": "12寸",
-                    "price": 693
-                },
-                {
-                    "spec": "14寸",
-                    "price": 468
-                },
-                {
-                    "spec": "16寸",
-                    "price": 645
-                },
-                {
-                    "spec": "18寸",
-                    "price": 904
+                    "spec": "10寸加高",
+                    "price": 248
                 }
             ],
             "notes": "香麦佳蛋糕，品质保证，最优选择。"
@@ -2401,36 +1601,28 @@
         {
             "id": 1064,
             "url": "/cake/img/cake_gallery_1064.jpg",
-            "category": "influencers",
-            "title": "香麦佳《网红》款",
+            "category": "fruit",
+            "title": "香麦佳《水果》款",
             "prices": [
                 {
                     "spec": "6寸",
-                    "price": 176
+                    "price": 68
                 },
                 {
                     "spec": "8寸",
-                    "price": 181
+                    "price": 108
                 },
                 {
                     "spec": "10寸",
-                    "price": 346
+                    "price": 148
                 },
                 {
                     "spec": "12寸",
-                    "price": 896
+                    "price": 198
                 },
                 {
                     "spec": "14寸",
-                    "price": 859
-                },
-                {
-                    "spec": "16寸",
-                    "price": 957
-                },
-                {
-                    "spec": "18寸",
-                    "price": 795
+                    "price": 238
                 }
             ],
             "notes": "香麦佳蛋糕，品质保证，最优选择。"
@@ -2438,641 +1630,12 @@
         {
             "id": 1065,
             "url": "/cake/img/cake_gallery_1065.jpg",
-            "category": "influencers",
+            "category": "popular",
             "title": "香麦佳《网红》款",
             "prices": [
                 {
                     "spec": "6寸",
-                    "price": 124
-                },
-                {
-                    "spec": "8寸",
-                    "price": 275
-                },
-                {
-                    "spec": "10寸",
-                    "price": 507
-                },
-                {
-                    "spec": "12寸",
-                    "price": 837
-                },
-                {
-                    "spec": "14寸",
-                    "price": 776
-                },
-                {
-                    "spec": "16寸",
-                    "price": 670
-                },
-                {
-                    "spec": "18寸",
-                    "price": 402
-                }
-            ],
-            "notes": "香麦佳蛋糕，品质保证，最优选择。"
-        },
-        {
-            "id": 1066,
-            "url": "/cake/img/cake_gallery_1066.jpg",
-            "category": "influencers",
-            "title": "香麦佳《网红》款",
-            "prices": [
-                {
-                    "spec": "6寸",
-                    "price": 102
-                },
-                {
-                    "spec": "8寸",
-                    "price": 199
-                },
-                {
-                    "spec": "10寸",
-                    "price": 228
-                },
-                {
-                    "spec": "12寸",
-                    "price": 788
-                },
-                {
-                    "spec": "14寸",
-                    "price": 832
-                },
-                {
-                    "spec": "16寸",
-                    "price": 454
-                },
-                {
-                    "spec": "18寸",
-                    "price": 855
-                }
-            ],
-            "notes": "香麦佳蛋糕，品质保证，最优选择。"
-        },
-        {
-            "id": 1067,
-            "url": "/cake/img/cake_gallery_1067.jpg",
-            "category": "influencers",
-            "title": "香麦佳《网红》款",
-            "prices": [
-                {
-                    "spec": "6寸",
-                    "price": 198
-                },
-                {
-                    "spec": "8寸",
-                    "price": 253
-                },
-                {
-                    "spec": "10寸",
-                    "price": 217
-                },
-                {
-                    "spec": "12寸",
-                    "price": 418
-                },
-                {
-                    "spec": "14寸",
-                    "price": 582
-                },
-                {
-                    "spec": "16寸",
-                    "price": 936
-                },
-                {
-                    "spec": "18寸",
-                    "price": 799
-                }
-            ],
-            "notes": "香麦佳蛋糕，品质保证，最优选择。"
-        },
-        {
-            "id": 1068,
-            "url": "/cake/img/cake_gallery_1068.jpg",
-            "category": "influencers",
-            "title": "香麦佳《网红》款",
-            "prices": [
-                {
-                    "spec": "6寸",
-                    "price": 196
-                },
-                {
-                    "spec": "8寸",
-                    "price": 239
-                },
-                {
-                    "spec": "10寸",
-                    "price": 430
-                },
-                {
-                    "spec": "12寸",
-                    "price": 765
-                },
-                {
-                    "spec": "14寸",
-                    "price": 690
-                },
-                {
-                    "spec": "16寸",
-                    "price": 808
-                },
-                {
-                    "spec": "18寸",
-                    "price": 785
-                }
-            ],
-            "notes": "香麦佳蛋糕，品质保证，最优选择。"
-        },
-        {
-            "id": 1069,
-            "url": "/cake/img/cake_gallery_1069.jpg",
-            "category": "fruit",
-            "title": "香麦佳《水果》款",
-            "prices": [
-                {
-                    "spec": "6寸",
-                    "price": 111
-                },
-                {
-                    "spec": "8寸",
-                    "price": 171
-                },
-                {
-                    "spec": "10寸",
-                    "price": 504
-                },
-                {
-                    "spec": "12寸",
-                    "price": 830
-                },
-                {
-                    "spec": "14寸",
-                    "price": 636
-                },
-                {
-                    "spec": "16寸",
-                    "price": 618
-                },
-                {
-                    "spec": "18寸",
-                    "price": 628
-                }
-            ],
-            "notes": "香麦佳蛋糕，品质保证，最优选择。"
-        },
-        {
-            "id": 1070,
-            "url": "/cake/img/cake_gallery_1070.jpg",
-            "category": "influencers",
-            "title": "香麦佳《网红》款",
-            "prices": [
-                {
-                    "spec": "6寸",
-                    "price": 103
-                },
-                {
-                    "spec": "8寸",
-                    "price": 232
-                },
-                {
-                    "spec": "10寸",
-                    "price": 533
-                },
-                {
-                    "spec": "12寸",
-                    "price": 461
-                },
-                {
-                    "spec": "14寸",
-                    "price": 582
-                },
-                {
-                    "spec": "16寸",
-                    "price": 430
-                },
-                {
-                    "spec": "18寸",
-                    "price": 491
-                }
-            ],
-            "notes": "香麦佳蛋糕，品质保证，最优选择。"
-        },
-        {
-            "id": 1071,
-            "url": "/cake/img/cake_gallery_1071.jpg",
-            "category": "influencers",
-            "title": "香麦佳《网红》款",
-            "prices": [
-                {
-                    "spec": "6寸",
-                    "price": 108
-                },
-                {
-                    "spec": "8寸",
-                    "price": 268
-                },
-                {
-                    "spec": "10寸",
-                    "price": 559
-                },
-                {
-                    "spec": "12寸",
-                    "price": 900
-                },
-                {
-                    "spec": "14寸",
-                    "price": 899
-                },
-                {
-                    "spec": "16寸",
-                    "price": 973
-                },
-                {
-                    "spec": "18寸",
-                    "price": 688
-                }
-            ],
-            "notes": "香麦佳蛋糕，品质保证，最优选择。"
-        },
-        {
-            "id": 1072,
-            "url": "/cake/img/cake_gallery_1072.jpg",
-            "category": "congratulate",
-            "title": "香麦佳《祝寿》款",
-            "prices": [
-                {
-                    "spec": "6寸",
-                    "price": 168
-                },
-                {
-                    "spec": "8寸",
-                    "price": 263
-                },
-                {
-                    "spec": "10寸",
-                    "price": 470
-                },
-                {
-                    "spec": "12寸",
-                    "price": 785
-                },
-                {
-                    "spec": "14寸",
-                    "price": 896
-                },
-                {
-                    "spec": "16寸",
-                    "price": 523
-                },
-                {
-                    "spec": "18寸",
-                    "price": 400
-                }
-            ],
-            "notes": "香麦佳蛋糕，品质保证，最优选择。"
-        },
-        {
-            "id": 1073,
-            "url": "/cake/img/cake_gallery_1073.jpg",
-            "category": "congratulate",
-            "title": "香麦佳《祝寿》款",
-            "prices": [
-                {
-                    "spec": "6寸",
-                    "price": 50
-                },
-                {
-                    "spec": "8寸",
-                    "price": 152
-                },
-                {
-                    "spec": "10寸",
-                    "price": 531
-                },
-                {
-                    "spec": "12寸",
-                    "price": 431
-                },
-                {
-                    "spec": "14寸",
-                    "price": 801
-                },
-                {
-                    "spec": "16寸",
-                    "price": 816
-                },
-                {
-                    "spec": "18寸",
-                    "price": 862
-                }
-            ],
-            "notes": "香麦佳蛋糕，品质保证，最优选择。"
-        },
-        {
-            "id": 1074,
-            "url": "/cake/img/cake_gallery_1074.jpg",
-            "category": "girl",
-            "title": "香麦佳《女孩》款",
-            "prices": [
-                {
-                    "spec": "6寸",
-                    "price": 139
-                },
-                {
-                    "spec": "8寸",
-                    "price": 163
-                },
-                {
-                    "spec": "10寸",
-                    "price": 570
-                },
-                {
-                    "spec": "12寸",
-                    "price": 851
-                },
-                {
-                    "spec": "14寸",
-                    "price": 641
-                },
-                {
-                    "spec": "16寸",
-                    "price": 713
-                },
-                {
-                    "spec": "18寸",
-                    "price": 857
-                }
-            ],
-            "notes": "香麦佳蛋糕，品质保证，最优选择。"
-        },
-        {
-            "id": 1075,
-            "url": "/cake/img/cake_gallery_1075.jpg",
-            "category": "fruit",
-            "title": "香麦佳《水果》款",
-            "prices": [
-                {
-                    "spec": "6寸",
-                    "price": 52
-                },
-                {
-                    "spec": "8寸",
-                    "price": 221
-                },
-                {
-                    "spec": "10寸",
-                    "price": 392
-                },
-                {
-                    "spec": "12寸",
-                    "price": 626
-                },
-                {
-                    "spec": "14寸",
-                    "price": 535
-                },
-                {
-                    "spec": "16寸",
-                    "price": 701
-                },
-                {
-                    "spec": "18寸",
-                    "price": 864
-                }
-            ],
-            "notes": "香麦佳蛋糕，品质保证，最优选择。"
-        },
-        {
-            "id": 1076,
-            "url": "/cake/img/cake_gallery_1076.jpg",
-            "category": "influencers",
-            "title": "香麦佳《网红》款",
-            "prices": [
-                {
-                    "spec": "6寸",
-                    "price": 168
-                },
-                {
-                    "spec": "8寸",
-                    "price": 126
-                },
-                {
-                    "spec": "10寸",
-                    "price": 583
-                },
-                {
-                    "spec": "12寸",
-                    "price": 733
-                },
-                {
-                    "spec": "14寸",
-                    "price": 947
-                },
-                {
-                    "spec": "16寸",
-                    "price": 947
-                },
-                {
-                    "spec": "18寸",
-                    "price": 503
-                }
-            ],
-            "notes": "香麦佳蛋糕，品质保证，最优选择。"
-        },
-        {
-            "id": 1077,
-            "url": "/cake/img/cake_gallery_1077.jpg",
-            "category": "girl",
-            "title": "香麦佳《女孩》款",
-            "prices": [
-                {
-                    "spec": "6寸",
-                    "price": 82
-                },
-                {
-                    "spec": "8寸",
-                    "price": 292
-                },
-                {
-                    "spec": "10寸",
-                    "price": 594
-                },
-                {
-                    "spec": "12寸",
-                    "price": 589
-                },
-                {
-                    "spec": "14寸",
-                    "price": 721
-                },
-                {
-                    "spec": "16寸",
-                    "price": 650
-                },
-                {
-                    "spec": "18寸",
-                    "price": 728
-                }
-            ],
-            "notes": "香麦佳蛋糕，品质保证，最优选择。"
-        },
-        {
-            "id": 1078,
-            "url": "/cake/img/cake_gallery_1078.jpg",
-            "category": "congratulate",
-            "title": "香麦佳《祝寿》款",
-            "prices": [
-                {
-                    "spec": "6寸",
-                    "price": 102
-                },
-                {
-                    "spec": "8寸",
-                    "price": 181
-                },
-                {
-                    "spec": "10寸",
-                    "price": 540
-                },
-                {
-                    "spec": "12寸",
-                    "price": 563
-                },
-                {
-                    "spec": "14寸",
-                    "price": 674
-                },
-                {
-                    "spec": "16寸",
-                    "price": 806
-                },
-                {
-                    "spec": "18寸",
-                    "price": 646
-                }
-            ],
-            "notes": "香麦佳蛋糕，品质保证，最优选择。"
-        },
-        {
-            "id": 1079,
-            "url": "/cake/img/cake_gallery_1079.jpg",
-            "category": "congratulate",
-            "title": "香麦佳《祝寿》款",
-            "prices": [
-                {
-                    "spec": "6寸",
-                    "price": 76
-                },
-                {
-                    "spec": "8寸",
-                    "price": 158
-                },
-                {
-                    "spec": "10寸",
-                    "price": 352
-                },
-                {
-                    "spec": "12寸",
-                    "price": 714
-                },
-                {
-                    "spec": "14寸",
-                    "price": 420
-                },
-                {
-                    "spec": "16寸",
-                    "price": 830
-                },
-                {
-                    "spec": "18寸",
-                    "price": 664
-                }
-            ],
-            "notes": "香麦佳蛋糕，品质保证，最优选择。"
-        },
-        {
-            "id": 1080,
-            "url": "/cake/img/cake_gallery_1080.jpg",
-            "category": "influencers",
-            "title": "香麦佳《网红》款",
-            "prices": [
-                {
-                    "spec": "6寸",
-                    "price": 127
-                },
-                {
-                    "spec": "8寸",
-                    "price": 113
-                },
-                {
-                    "spec": "10寸",
-                    "price": 242
-                },
-                {
-                    "spec": "12寸",
-                    "price": 619
-                },
-                {
-                    "spec": "14寸",
-                    "price": 540
-                },
-                {
-                    "spec": "16寸",
-                    "price": 722
-                },
-                {
-                    "spec": "18寸",
-                    "price": 945
-                }
-            ],
-            "notes": "香麦佳蛋糕，品质保证，最优选择。"
-        },
-        {
-            "id": 1081,
-            "url": "/cake/img/cake_gallery_1081.jpg",
-            "category": "congratulate",
-            "title": "香麦佳《祝寿》款",
-            "prices": [
-                {
-                    "spec": "6寸",
-                    "price": 190
-                },
-                {
-                    "spec": "8寸",
-                    "price": 126
-                },
-                {
-                    "spec": "10寸",
-                    "price": 485
-                },
-                {
-                    "spec": "12寸",
-                    "price": 725
-                },
-                {
-                    "spec": "14寸",
-                    "price": 673
-                },
-                {
-                    "spec": "16寸",
-                    "price": 825
-                },
-                {
-                    "spec": "18寸",
-                    "price": 840
-                }
-            ],
-            "notes": "香麦佳蛋糕，品质保证，最优选择。"
-        },
-        {
-            "id": 1082,
-            "url": "/cake/img/cake_gallery_1082.jpg",
-            "category": "congratulate",
-            "title": "香麦佳《祝寿》款",
-            "prices": [
-                {
-                    "spec": "6寸",
-                    "price": 72
+                    "price": 78
                 },
                 {
                     "spec": "8寸",
@@ -3080,23 +1643,476 @@
                 },
                 {
                     "spec": "10寸",
-                    "price": 588
+                    "price": 158
                 },
                 {
                     "spec": "12寸",
-                    "price": 794
+                    "price": 208
                 },
                 {
                     "spec": "14寸",
-                    "price": 823
+                    "price": 248
+                }
+            ],
+            "notes": "香麦佳蛋糕，品质保证，最优选择。"
+        },
+        {
+            "id": 1066,
+            "url": "/cake/img/cake_gallery_1066.jpg",
+            "category": "fruit",
+            "title": "香麦佳《水果》款",
+            "prices": [
+                {
+                    "spec": "6寸",
+                    "price": 68
                 },
                 {
-                    "spec": "16寸",
-                    "price": 595
+                    "spec": "8寸",
+                    "price": 108
                 },
                 {
-                    "spec": "18寸",
-                    "price": 975
+                    "spec": "10寸",
+                    "price": 148
+                },
+                {
+                    "spec": "12寸",
+                    "price": 198
+                },
+                {
+                    "spec": "14寸",
+                    "price": 238
+                }
+            ],
+            "notes": "香麦佳蛋糕，品质保证，最优选择。"
+        },
+        {
+            "id": 1067,
+            "url": "/cake/img/cake_gallery_1067.jpg",
+            "category": "boy",
+            "title": "香麦佳《男孩》款",
+            "prices": [
+                {
+                    "spec": "6寸加高",
+                    "price": 118
+                },
+                {
+                    "spec": "8寸加高",
+                    "price": 158
+                },
+                {
+                    "spec": "10寸加高",
+                    "price": 208
+                },
+                {
+                    "spec": "12寸加高",
+                    "price": 248
+                }
+            ],
+            "notes": "香麦佳蛋糕，品质保证，最优选择。"
+        },
+        {
+            "id": 1068,
+            "url": "/cake/img/cake_gallery_1068.jpg",
+            "category": "fruit",
+            "title": "香麦佳《水果》款",
+            "prices": [
+                {
+                    "spec": "8寸",
+                    "price": 108
+                },
+                {
+                    "spec": "10寸",
+                    "price": 148
+                },
+                {
+                    "spec": "12寸",
+                    "price": 198
+                },
+                {
+                    "spec": "14寸",
+                    "price": 238
+                }
+            ],
+            "notes": "香麦佳蛋糕，品质保证，最优选择。"
+        },
+        {
+            "id": 1069,
+            "url": "/cake/img/cake_gallery_1069.jpg",
+            "category": "popular",
+            "title": "香麦佳《网红》款",
+            "prices": [
+                {
+                    "spec": "6寸",
+                    "price": 78
+                },
+                {
+                    "spec": "8寸",
+                    "price": 118
+                },
+                {
+                    "spec": "10寸",
+                    "price": 158
+                },
+                {
+                    "spec": "12寸",
+                    "price": 208
+                },
+                {
+                    "spec": "14寸",
+                    "price": 248
+                }
+            ],
+            "notes": "香麦佳蛋糕，品质保证，最优选择。"
+        },
+        {
+            "id": 1070,
+            "url": "/cake/img/cake_gallery_1070.jpg",
+            "category": "fruit",
+            "title": "香麦佳《水果》款",
+            "prices": [
+                {
+                    "spec": "8寸",
+                    "price": 108
+                },
+                {
+                    "spec": "10寸",
+                    "price": 148
+                },
+                {
+                    "spec": "12寸",
+                    "price": 198
+                },
+                {
+                    "spec": "14寸",
+                    "price": 238
+                }
+            ],
+            "notes": "香麦佳蛋糕，品质保证，最优选择。"
+        },
+        {
+            "id": 1071,
+            "url": "/cake/img/cake_gallery_1071.jpg",
+            "category": "fruit",
+            "title": "香麦佳《水果》款",
+            "prices": [
+                {
+                    "spec": "6寸",
+                    "price": 78
+                },
+                {
+                    "spec": "8寸",
+                    "price": 118
+                },
+                {
+                    "spec": "10寸",
+                    "price": 158
+                },
+                {
+                    "spec": "12寸",
+                    "price": 218
+                },
+                {
+                    "spec": "14寸",
+                    "price": 268
+                }
+            ],
+            "notes": "香麦佳蛋糕，品质保证，最优选择。"
+        },
+        {
+            "id": 1072,
+            "url": "/cake/img/cake_gallery_1072.jpg",
+            "category": "popular",
+            "title": "香麦佳《网红》款",
+            "prices": [
+                {
+                    "spec": "6寸加高",
+                    "price": 138
+                },
+                {
+                    "spec": "8寸加高",
+                    "price": 178
+                },
+                {
+                    "spec": "10寸加高",
+                    "price": 228
+                },
+                {
+                    "spec": "12寸加高",
+                    "price": 288
+                }
+            ],
+            "notes": "香麦佳蛋糕，品质保证，最优选择。"
+        },
+        {
+            "id": 1073,
+            "url": "/cake/img/cake_gallery_1073.jpg",
+            "category": "popular",
+            "title": "香麦佳《网红》款",
+            "prices": [
+                {
+                    "spec": "6寸加高",
+                    "price": 138
+                },
+                {
+                    "spec": "8寸加高",
+                    "price": 178
+                },
+                {
+                    "spec": "10寸加高",
+                    "price": 228
+                },
+                {
+                    "spec": "12寸加高",
+                    "price": 278
+                }
+            ],
+            "notes": "香麦佳蛋糕，品质保证，最优选择。"
+        },
+        {
+            "id": 1074,
+            "url": "/cake/img/cake_gallery_1074.jpg",
+            "category": "popular",
+            "title": "香麦佳《网红》款",
+            "prices": [
+                {
+                    "spec": "6寸加高",
+                    "price": 148
+                },
+                {
+                    "spec": "8寸加高",
+                    "price": 188
+                },
+                {
+                    "spec": "10寸加高",
+                    "price": 248
+                },
+                {
+                    "spec": "12寸加高",
+                    "price": 288
+                }
+            ],
+            "notes": "香麦佳蛋糕，品质保证，最优选择。"
+        },
+        {
+            "id": 1075,
+            "url": "/cake/img/cake_gallery_1075.jpg",
+            "category": "girl",
+            "title": "香麦佳《女孩》款",
+            "prices": [
+                {
+                    "spec": "6寸加高",
+                    "price": 118
+                },
+                {
+                    "spec": "8寸加高",
+                    "price": 158
+                },
+                {
+                    "spec": "10寸加高",
+                    "price": 208
+                },
+                {
+                    "spec": "12寸加高",
+                    "price": 258
+                }
+            ],
+            "notes": "香麦佳蛋糕，品质保证，最优选择。"
+        },
+        {
+            "id": 1076,
+            "url": "/cake/img/cake_gallery_1076.jpg",
+            "category": "popular",
+            "title": "香麦佳《网红》款",
+            "prices": [
+                {
+                    "spec": "6寸",
+                    "price": 78
+                },
+                {
+                    "spec": "8寸",
+                    "price": 118
+                },
+                {
+                    "spec": "10寸",
+                    "price": 168
+                },
+                {
+                    "spec": "12寸",
+                    "price": 228
+                }
+            ],
+            "notes": "香麦佳蛋糕，品质保证，最优选择。"
+        },
+        {
+            "id": 1077,
+            "url": "/cake/img/cake_gallery_1077.jpg",
+            "category": "fruit",
+            "title": "香麦佳《水果》款",
+            "prices": [
+                {
+                    "spec": "6寸",
+                    "price": 78
+                },
+                {
+                    "spec": "8寸",
+                    "price": 118
+                },
+                {
+                    "spec": "10寸",
+                    "price": 168
+                },
+                {
+                    "spec": "12寸",
+                    "price": 218
+                },
+                {
+                    "spec": "14寸",
+                    "price": 268
+                }
+            ],
+            "notes": "香麦佳蛋糕，品质保证，最优选择。"
+        },
+        {
+            "id": 1078,
+            "url": "/cake/img/cake_gallery_1078.jpg",
+            "category": "fruit",
+            "title": "香麦佳《水果》款",
+            "prices": [
+                {
+                    "spec": "6寸",
+                    "price": 68
+                },
+                {
+                    "spec": "8寸",
+                    "price": 108
+                },
+                {
+                    "spec": "10寸",
+                    "price": 148
+                },
+                {
+                    "spec": "12寸",
+                    "price": 208
+                },
+                {
+                    "spec": "14寸",
+                    "price": 248
+                }
+            ],
+            "notes": "香麦佳蛋糕，品质保证，最优选择。"
+        },
+        {
+            "id": 1079,
+            "url": "/cake/img/cake_gallery_1079.jpg",
+            "category": "fruit",
+            "title": "香麦佳《水果》款",
+            "prices": [
+                {
+                    "spec": "6寸",
+                    "price": 78
+                },
+                {
+                    "spec": "8寸",
+                    "price": 118
+                },
+                {
+                    "spec": "10寸",
+                    "price": 158
+                },
+                {
+                    "spec": "12寸",
+                    "price": 208
+                },
+                {
+                    "spec": "14寸",
+                    "price": 248
+                }
+            ],
+            "notes": "香麦佳蛋糕，品质保证，最优选择。"
+        },
+        {
+            "id": 1080,
+            "url": "/cake/img/cake_gallery_1080.jpg",
+            "category": "popular",
+            "title": "香麦佳《网红》款",
+            "prices": [
+                {
+                    "spec": "6寸",
+                    "price": 78
+                },
+                {
+                    "spec": "8寸",
+                    "price": 118
+                },
+                {
+                    "spec": "10寸",
+                    "price": 158
+                },
+                {
+                    "spec": "12寸",
+                    "price": 208
+                },
+                {
+                    "spec": "14寸",
+                    "price": 248
+                }
+            ],
+            "notes": "香麦佳蛋糕，品质保证，最优选择。"
+        },
+        {
+            "id": 1081,
+            "url": "/cake/img/cake_gallery_1081.jpg",
+            "category": "popular",
+            "title": "香麦佳《网红》款",
+            "prices": [
+                {
+                    "spec": "6寸",
+                    "price": 98
+                },
+                {
+                    "spec": "8寸",
+                    "price": 128
+                },
+                {
+                    "spec": "10寸",
+                    "price": 178
+                },
+                {
+                    "spec": "12寸",
+                    "price": 238
+                },
+                {
+                    "spec": "14寸",
+                    "price": 278
+                }
+            ],
+            "notes": "香麦佳蛋糕，品质保证，最优选择。"
+        },
+        {
+            "id": 1082,
+            "url": "/cake/img/cake_gallery_1082.jpg",
+            "category": "fruit",
+            "title": "香麦佳《水果》款",
+            "prices": [
+                {
+                    "spec": "6寸",
+                    "price": 78
+                },
+                {
+                    "spec": "8寸",
+                    "price": 118
+                },
+                {
+                    "spec": "10寸",
+                    "price": 158
+                },
+                {
+                    "spec": "12寸",
+                    "price": 208
+                },
+                {
+                    "spec": "14寸",
+                    "price": 248
                 }
             ],
             "notes": "香麦佳蛋糕，品质保证，最优选择。"
@@ -3104,36 +2120,24 @@
         {
             "id": 1083,
             "url": "/cake/img/cake_gallery_1083.jpg",
-            "category": "adult",
-            "title": "香麦佳《情趣》款",
+            "category": "popular",
+            "title": "香麦佳《网红》款",
             "prices": [
                 {
                     "spec": "6寸",
-                    "price": 156
+                    "price": 78
                 },
                 {
                     "spec": "8寸",
-                    "price": 174
+                    "price": 118
                 },
                 {
                     "spec": "10寸",
-                    "price": 468
+                    "price": 158
                 },
                 {
                     "spec": "12寸",
-                    "price": 920
-                },
-                {
-                    "spec": "14寸",
-                    "price": 410
-                },
-                {
-                    "spec": "16寸",
-                    "price": 557
-                },
-                {
-                    "spec": "18寸",
-                    "price": 648
+                    "price": 208
                 }
             ],
             "notes": "香麦佳蛋糕，品质保证，最优选择。"
@@ -3141,36 +2145,28 @@
         {
             "id": 1084,
             "url": "/cake/img/cake_gallery_1084.jpg",
-            "category": "adult",
-            "title": "香麦佳《情趣》款",
+            "category": "popular",
+            "title": "香麦佳《网红》款",
             "prices": [
                 {
                     "spec": "6寸",
-                    "price": 141
+                    "price": 78
                 },
                 {
                     "spec": "8寸",
-                    "price": 195
+                    "price": 118
                 },
                 {
                     "spec": "10寸",
-                    "price": 394
+                    "price": 158
                 },
                 {
                     "spec": "12寸",
-                    "price": 575
+                    "price": 208
                 },
                 {
                     "spec": "14寸",
-                    "price": 674
-                },
-                {
-                    "spec": "16寸",
-                    "price": 439
-                },
-                {
-                    "spec": "18寸",
-                    "price": 896
+                    "price": 248
                 }
             ],
             "notes": "香麦佳蛋糕，品质保证，最优选择。"
@@ -3183,31 +2179,15 @@
             "prices": [
                 {
                     "spec": "6寸",
-                    "price": 196
+                    "price": 128
                 },
                 {
                     "spec": "8寸",
-                    "price": 251
+                    "price": 168
                 },
                 {
                     "spec": "10寸",
-                    "price": 471
-                },
-                {
-                    "spec": "12寸",
-                    "price": 726
-                },
-                {
-                    "spec": "14寸",
-                    "price": 713
-                },
-                {
-                    "spec": "16寸",
-                    "price": 807
-                },
-                {
-                    "spec": "18寸",
-                    "price": 622
+                    "price": 208
                 }
             ],
             "notes": "香麦佳蛋糕，品质保证，最优选择。"
@@ -3215,36 +2195,20 @@
         {
             "id": 1086,
             "url": "/cake/img/cake_gallery_1086.jpg",
-            "category": "influencers",
+            "category": "popular",
             "title": "香麦佳《网红》款",
             "prices": [
                 {
-                    "spec": "6寸",
-                    "price": 179
+                    "spec": "8+6寸",
+                    "price": 208
                 },
                 {
-                    "spec": "8寸",
-                    "price": 222
+                    "spec": "10+8寸",
+                    "price": 288
                 },
                 {
-                    "spec": "10寸",
-                    "price": 307
-                },
-                {
-                    "spec": "12寸",
-                    "price": 857
-                },
-                {
-                    "spec": "14寸",
-                    "price": 750
-                },
-                {
-                    "spec": "16寸",
-                    "price": 707
-                },
-                {
-                    "spec": "18寸",
-                    "price": 640
+                    "spec": "12+10寸",
+                    "price": 378
                 }
             ],
             "notes": "香麦佳蛋糕，品质保证，最优选择。"
@@ -3252,36 +2216,24 @@
         {
             "id": 1087,
             "url": "/cake/img/cake_gallery_1087.jpg",
-            "category": "girl",
-            "title": "香麦佳《女孩》款",
+            "category": "fruit",
+            "title": "香麦佳《水果》款",
             "prices": [
                 {
                     "spec": "6寸",
-                    "price": 145
+                    "price": 78
                 },
                 {
                     "spec": "8寸",
-                    "price": 212
+                    "price": 118
                 },
                 {
                     "spec": "10寸",
-                    "price": 265
+                    "price": 158
                 },
                 {
                     "spec": "12寸",
-                    "price": 677
-                },
-                {
-                    "spec": "14寸",
-                    "price": 733
-                },
-                {
-                    "spec": "16寸",
-                    "price": 442
-                },
-                {
-                    "spec": "18寸",
-                    "price": 709
+                    "price": 208
                 }
             ],
             "notes": "香麦佳蛋糕，品质保证，最优选择。"
@@ -3289,36 +2241,24 @@
         {
             "id": 1088,
             "url": "/cake/img/cake_gallery_1088.jpg",
-            "category": "boy",
-            "title": "香麦佳《男孩》款",
+            "category": "popular",
+            "title": "香麦佳《网红》款",
             "prices": [
                 {
                     "spec": "6寸",
-                    "price": 110
+                    "price": 88
                 },
                 {
                     "spec": "8寸",
-                    "price": 216
+                    "price": 128
                 },
                 {
                     "spec": "10寸",
-                    "price": 537
+                    "price": 168
                 },
                 {
                     "spec": "12寸",
-                    "price": 914
-                },
-                {
-                    "spec": "14寸",
-                    "price": 843
-                },
-                {
-                    "spec": "16寸",
-                    "price": 736
-                },
-                {
-                    "spec": "18寸",
-                    "price": 702
+                    "price": 218
                 }
             ],
             "notes": "香麦佳蛋糕，品质保证，最优选择。"
@@ -3326,36 +2266,24 @@
         {
             "id": 1089,
             "url": "/cake/img/cake_gallery_1089.jpg",
-            "category": "fruit",
-            "title": "香麦佳《水果》款",
+            "category": "popular",
+            "title": "香麦佳《网红》款",
             "prices": [
                 {
                     "spec": "6寸",
-                    "price": 73
+                    "price": 78
                 },
                 {
                     "spec": "8寸",
-                    "price": 103
+                    "price": 118
                 },
                 {
                     "spec": "10寸",
-                    "price": 455
+                    "price": 158
                 },
                 {
                     "spec": "12寸",
-                    "price": 939
-                },
-                {
-                    "spec": "14寸",
-                    "price": 579
-                },
-                {
-                    "spec": "16寸",
-                    "price": 873
-                },
-                {
-                    "spec": "18寸",
-                    "price": 820
+                    "price": 208
                 }
             ],
             "notes": "香麦佳蛋糕，品质保证，最优选择。"
@@ -3363,36 +2291,24 @@
         {
             "id": 1090,
             "url": "/cake/img/cake_gallery_1090.jpg",
-            "category": "adult",
-            "title": "香麦佳《情趣》款",
+            "category": "popular",
+            "title": "香麦佳《网红》款",
             "prices": [
                 {
                     "spec": "6寸",
-                    "price": 51
+                    "price": 88
                 },
                 {
                     "spec": "8寸",
-                    "price": 285
+                    "price": 128
                 },
                 {
                     "spec": "10寸",
-                    "price": 310
+                    "price": 168
                 },
                 {
                     "spec": "12寸",
-                    "price": 769
-                },
-                {
-                    "spec": "14寸",
-                    "price": 480
-                },
-                {
-                    "spec": "16寸",
-                    "price": 744
-                },
-                {
-                    "spec": "18寸",
-                    "price": 639
+                    "price": 218
                 }
             ],
             "notes": "香麦佳蛋糕，品质保证，最优选择。"
@@ -3400,36 +2316,24 @@
         {
             "id": 1091,
             "url": "/cake/img/cake_gallery_1091.jpg",
-            "category": "boy",
-            "title": "香麦佳《男孩》款",
+            "category": "popular",
+            "title": "香麦佳《网红》款",
             "prices": [
                 {
                     "spec": "6寸",
-                    "price": 127
+                    "price": 78
                 },
                 {
                     "spec": "8寸",
-                    "price": 277
+                    "price": 118
                 },
                 {
                     "spec": "10寸",
-                    "price": 482
+                    "price": 158
                 },
                 {
                     "spec": "12寸",
-                    "price": 879
-                },
-                {
-                    "spec": "14寸",
-                    "price": 950
-                },
-                {
-                    "spec": "16寸",
-                    "price": 913
-                },
-                {
-                    "spec": "18寸",
-                    "price": 461
+                    "price": 208
                 }
             ],
             "notes": "香麦佳蛋糕，品质保证，最优选择。"
@@ -3437,36 +2341,24 @@
         {
             "id": 1092,
             "url": "/cake/img/cake_gallery_1092.jpg",
-            "category": "influencers",
+            "category": "popular",
             "title": "香麦佳《网红》款",
             "prices": [
                 {
                     "spec": "6寸",
-                    "price": 62
+                    "price": 88
                 },
                 {
                     "spec": "8寸",
-                    "price": 184
+                    "price": 138
                 },
                 {
                     "spec": "10寸",
-                    "price": 232
+                    "price": 178
                 },
                 {
                     "spec": "12寸",
-                    "price": 748
-                },
-                {
-                    "spec": "14寸",
-                    "price": 917
-                },
-                {
-                    "spec": "16寸",
-                    "price": 843
-                },
-                {
-                    "spec": "18寸",
-                    "price": 848
+                    "price": 228
                 }
             ],
             "notes": "香麦佳蛋糕，品质保证，最优选择。"
@@ -3474,36 +2366,24 @@
         {
             "id": 1093,
             "url": "/cake/img/cake_gallery_1093.jpg",
-            "category": "congratulate",
-            "title": "香麦佳《祝寿》款",
+            "category": "popular",
+            "title": "香麦佳《网红》款",
             "prices": [
                 {
                     "spec": "6寸",
-                    "price": 170
+                    "price": 88
                 },
                 {
                     "spec": "8寸",
-                    "price": 146
+                    "price": 138
                 },
                 {
                     "spec": "10寸",
-                    "price": 568
+                    "price": 178
                 },
                 {
                     "spec": "12寸",
-                    "price": 761
-                },
-                {
-                    "spec": "14寸",
-                    "price": 975
-                },
-                {
-                    "spec": "16寸",
-                    "price": 835
-                },
-                {
-                    "spec": "18寸",
-                    "price": 588
+                    "price": 228
                 }
             ],
             "notes": "香麦佳蛋糕，品质保证，最优选择。"
@@ -3511,36 +2391,16 @@
         {
             "id": 1094,
             "url": "/cake/img/cake_gallery_1094.jpg",
-            "category": "adult",
-            "title": "香麦佳《情趣》款",
+            "category": "popular",
+            "title": "香麦佳《网红》款",
             "prices": [
                 {
-                    "spec": "6寸",
-                    "price": 127
+                    "spec": "8+6寸",
+                    "price": 328
                 },
                 {
-                    "spec": "8寸",
-                    "price": 248
-                },
-                {
-                    "spec": "10寸",
-                    "price": 434
-                },
-                {
-                    "spec": "12寸",
-                    "price": 547
-                },
-                {
-                    "spec": "14寸",
-                    "price": 948
-                },
-                {
-                    "spec": "16寸",
-                    "price": 851
-                },
-                {
-                    "spec": "18寸",
-                    "price": 854
+                    "spec": "10+8寸",
+                    "price": 498
                 }
             ],
             "notes": "香麦佳蛋糕，品质保证，最优选择。"
@@ -3548,36 +2408,16 @@
         {
             "id": 1095,
             "url": "/cake/img/cake_gallery_1095.jpg",
-            "category": "influencers",
-            "title": "香麦佳《网红》款",
+            "category": "birthday",
+            "title": "香麦佳《祝寿》款",
             "prices": [
                 {
-                    "spec": "6寸",
-                    "price": 52
+                    "spec": "10+8寸",
+                    "price": 278
                 },
                 {
-                    "spec": "8寸",
-                    "price": 187
-                },
-                {
-                    "spec": "10寸",
-                    "price": 258
-                },
-                {
-                    "spec": "12寸",
-                    "price": 608
-                },
-                {
-                    "spec": "14寸",
-                    "price": 599
-                },
-                {
-                    "spec": "16寸",
-                    "price": 886
-                },
-                {
-                    "spec": "18寸",
-                    "price": 558
+                    "spec": "12+10寸",
+                    "price": 348
                 }
             ],
             "notes": "香麦佳蛋糕，品质保证，最优选择。"
@@ -3585,36 +2425,16 @@
         {
             "id": 1096,
             "url": "/cake/img/cake_gallery_1096.jpg",
-            "category": "boy",
-            "title": "香麦佳《男孩》款",
+            "category": "birthday",
+            "title": "香麦佳《祝寿》款",
             "prices": [
                 {
-                    "spec": "6寸",
-                    "price": 62
+                    "spec": "12+10+8寸",
+                    "price": 368
                 },
                 {
-                    "spec": "8寸",
-                    "price": 173
-                },
-                {
-                    "spec": "10寸",
-                    "price": 524
-                },
-                {
-                    "spec": "12寸",
-                    "price": 731
-                },
-                {
-                    "spec": "14寸",
-                    "price": 752
-                },
-                {
-                    "spec": "16寸",
-                    "price": 453
-                },
-                {
-                    "spec": "18寸",
-                    "price": 718
+                    "spec": "14+12+10寸",
+                    "price": 588
                 }
             ],
             "notes": "香麦佳蛋糕，品质保证，最优选择。"
@@ -3622,36 +2442,20 @@
         {
             "id": 1097,
             "url": "/cake/img/cake_gallery_1097.jpg",
-            "category": "fruit",
-            "title": "香麦佳《水果》款",
+            "category": "birthday",
+            "title": "香麦佳《祝寿》款",
             "prices": [
                 {
-                    "spec": "6寸",
-                    "price": 125
+                    "spec": "10+8寸",
+                    "price": 238
                 },
                 {
-                    "spec": "8寸",
-                    "price": 182
+                    "spec": "12+10寸",
+                    "price": 318
                 },
                 {
-                    "spec": "10寸",
-                    "price": 451
-                },
-                {
-                    "spec": "12寸",
-                    "price": 507
-                },
-                {
-                    "spec": "14寸",
-                    "price": 809
-                },
-                {
-                    "spec": "16寸",
-                    "price": 793
-                },
-                {
-                    "spec": "18寸",
-                    "price": 978
+                    "spec": "14+12寸",
+                    "price": 388
                 }
             ],
             "notes": "香麦佳蛋糕，品质保证，最优选择。"
@@ -3659,36 +2463,24 @@
         {
             "id": 1098,
             "url": "/cake/img/cake_gallery_1098.jpg",
-            "category": "congratulate",
+            "category": "birthday",
             "title": "香麦佳《祝寿》款",
             "prices": [
                 {
-                    "spec": "6寸",
-                    "price": 62
+                    "spec": "10+8寸",
+                    "price": 238
                 },
                 {
-                    "spec": "8寸",
-                    "price": 286
+                    "spec": "12+10寸",
+                    "price": 318
                 },
                 {
-                    "spec": "10寸",
-                    "price": 467
+                    "spec": "14+12寸",
+                    "price": 388
                 },
                 {
-                    "spec": "12寸",
-                    "price": 828
-                },
-                {
-                    "spec": "14寸",
-                    "price": 697
-                },
-                {
-                    "spec": "16寸",
-                    "price": 685
-                },
-                {
-                    "spec": "18寸",
-                    "price": 483
+                    "spec": "16+14寸",
+                    "price": 438
                 }
             ],
             "notes": "香麦佳蛋糕，品质保证，最优选择。"
@@ -3696,36 +2488,16 @@
         {
             "id": 1099,
             "url": "/cake/img/cake_gallery_1099.jpg",
-            "category": "influencers",
+            "category": "popular",
             "title": "香麦佳《网红》款",
             "prices": [
                 {
-                    "spec": "6寸",
-                    "price": 119
+                    "spec": "10+8+6寸",
+                    "price": 298
                 },
                 {
-                    "spec": "8寸",
-                    "price": 236
-                },
-                {
-                    "spec": "10寸",
-                    "price": 455
-                },
-                {
-                    "spec": "12寸",
-                    "price": 735
-                },
-                {
-                    "spec": "14寸",
-                    "price": 661
-                },
-                {
-                    "spec": "16寸",
-                    "price": 453
-                },
-                {
-                    "spec": "18寸",
-                    "price": 928
+                    "spec": "12+10+8寸",
+                    "price": 378
                 }
             ],
             "notes": "香麦佳蛋糕，品质保证，最优选择。"
@@ -3733,36 +2505,16 @@
         {
             "id": 1100,
             "url": "/cake/img/cake_gallery_1100.jpg",
-            "category": "congratulate",
-            "title": "香麦佳《祝寿》款",
+            "category": "popular",
+            "title": "香麦佳《网红》款",
             "prices": [
                 {
-                    "spec": "6寸",
-                    "price": 91
+                    "spec": "10+8+6寸",
+                    "price": 298
                 },
                 {
-                    "spec": "8寸",
-                    "price": 160
-                },
-                {
-                    "spec": "10寸",
-                    "price": 406
-                },
-                {
-                    "spec": "12寸",
-                    "price": 757
-                },
-                {
-                    "spec": "14寸",
-                    "price": 551
-                },
-                {
-                    "spec": "16寸",
-                    "price": 423
-                },
-                {
-                    "spec": "18寸",
-                    "price": 647
+                    "spec": "12+10+8寸",
+                    "price": 378
                 }
             ],
             "notes": "香麦佳蛋糕，品质保证，最优选择。"
@@ -3770,36 +2522,20 @@
         {
             "id": 1101,
             "url": "/cake/img/cake_gallery_1101.jpg",
-            "category": "influencers",
+            "category": "popular",
             "title": "香麦佳《网红》款",
             "prices": [
                 {
-                    "spec": "6寸",
-                    "price": 94
+                    "spec": "10+8+6寸",
+                    "price": 298
                 },
                 {
-                    "spec": "8寸",
-                    "price": 279
+                    "spec": "12+10+8寸",
+                    "price": 378
                 },
                 {
-                    "spec": "10寸",
-                    "price": 423
-                },
-                {
-                    "spec": "12寸",
-                    "price": 954
-                },
-                {
-                    "spec": "14寸",
-                    "price": 766
-                },
-                {
-                    "spec": "16寸",
-                    "price": 582
-                },
-                {
-                    "spec": "18寸",
-                    "price": 497
+                    "spec": "14+12+10寸",
+                    "price": 488
                 }
             ],
             "notes": "香麦佳蛋糕，品质保证，最优选择。"
