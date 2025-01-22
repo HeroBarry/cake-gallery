@@ -27,6 +27,10 @@
         {
             "id": "adult",
             "name": "情趣"
+        },
+        {
+            "id": "other",
+            "name": "其他"
         }
     ],
     "images": [
