@@ -37,8 +37,8 @@
         {
             "id": 1000,
             "url": "/cake/img/cake_gallery_1000.jpg",
-            "category": "popular",
-            "title": "香麦佳《网红》款",
+            "category": "boy",
+            "title": "香麦佳《男孩》款",
             "prices": [
                 {
                     "spec": "6寸",
