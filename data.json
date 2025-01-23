@@ -36,7 +36,7 @@
     "images": [
         {
             "id": 1000,
-            "url": "https://gitee.com/georgeme/cake-gallery/raw/master/cake_gallery_1000.jpg",
+            "url": "/cake/img/cake_gallery_1000.jpg",
             "category": "boy",
             "title": "香麦佳《男孩》款",
             "prices": [
